@@ -1,64 +1,44 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sports LOW-PERMIUM 1" tvg-logo="http://ghostiptv.vip:80/images/664e959174fde9763f371b9988aa84e0.png" group-title="Bein Sport LOW",Bein Sports LOW-PERMIUM 1
-http://ghostiptv.vip:80/live/test55/test55/25336.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sports LOW-PERMIUM 2" tvg-logo="http://ghostiptv.vip:80/images/9e0a9e589178c0b2f8bdfe1fccf515ae.png" group-title="Bein Sport LOW",Bein Sports LOW-PERMIUM 2
-http://ghostiptv.vip:80/live/test55/test55/25337.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sports LOW-PERMUIM 3" tvg-logo="http://ghostiptv.vip:80/images/f53b6f0fc4152edfd40cbb095438f73d.png" group-title="Bein Sport LOW",Bein Sports LOW-PERMUIM 3
-http://ghostiptv.vip:80/live/test55/test55/25338.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sports LOW-1" tvg-logo="http://ghostiptv.vip:80/images/27cb32fe67691f6d913545795b767a28.png" group-title="Bein Sport LOW",Bein Sports LOW-1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sports LOW-1" tvg-logo="http://ghostiptv.vip:80/images/27cb32fe67691f6d913545795b767a28.png" group-title="GhostIPTV  Low",Bein Sports LOW-1
 http://ghostiptv.vip:80/live/test55/test55/25329.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sports LOW-2" tvg-logo="http://ghostiptv.vip:80/images/6e9e1151c4b1b80b513850509a84d73a.png" group-title="Bein Sport LOW",Bein Sports LOW-2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sports LOW-2" tvg-logo="http://ghostiptv.vip:80/images/6e9e1151c4b1b80b513850509a84d73a.png" group-title="GhostIPTV  Low",Bein Sports LOW-2
 http://ghostiptv.vip:80/live/test55/test55/25330.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sports LOW-3" tvg-logo="http://ghostiptv.vip:80/images/0940b7d404bbd2b66820615102b9bf34.png" group-title="Bein Sport LOW",Bein Sports LOW-3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sports LOW-3" tvg-logo="http://ghostiptv.vip:80/images/0940b7d404bbd2b66820615102b9bf34.png" group-title="GhostIPTV  Low",Bein Sports LOW-3
 http://ghostiptv.vip:80/live/test55/test55/25331.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sports LOW-4" tvg-logo="http://ghostiptv.vip:80/images/9209863f5031badd668c134c468bff98.png" group-title="Bein Sport LOW",Bein Sports LOW-4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sports LOW-4" tvg-logo="http://ghostiptv.vip:80/images/9209863f5031badd668c134c468bff98.png" group-title="GhostIPTV  Low",Bein Sports LOW-4
 http://ghostiptv.vip:80/live/test55/test55/25332.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sports LOW-5" tvg-logo="http://ghostiptv.vip:80/images/46cfc27d0fc2aea81ea48bf174381542.png" group-title="Bein Sport LOW",Bein Sports LOW-5
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sports LOW-5" tvg-logo="http://ghostiptv.vip:80/images/46cfc27d0fc2aea81ea48bf174381542.png" group-title="GhostIPTV  Low",Bein Sports LOW-5
 http://ghostiptv.vip:80/live/test55/test55/25333.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sports LOW-6" tvg-logo="http://ghostiptv.vip:80/images/1d2c6e6d8d24c0744011b1496dbb7217.png" group-title="Bein Sport LOW",Bein Sports LOW-6
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sports LOW-6" tvg-logo="http://ghostiptv.vip:80/images/1d2c6e6d8d24c0744011b1496dbb7217.png" group-title="GhostIPTV  Low",Bein Sports LOW-6
 http://ghostiptv.vip:80/live/test55/test55/25334.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sports LOW-7" tvg-logo="http://ghostiptv.vip:80/images/ddb7f6a3dd0bacbad276dc0fef236c00.png" group-title="Bein Sport LOW",Bein Sports LOW-7
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sports LOW-7" tvg-logo="http://ghostiptv.vip:80/images/ddb7f6a3dd0bacbad276dc0fef236c00.png" group-title="GhostIPTV  Low",Bein Sports LOW-7
 http://ghostiptv.vip:80/live/test55/test55/25335.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sports LOW-ENGLISH 1" tvg-logo="http://ghostiptv.vip:80/images/3aff257a92d8aec877a0f5471b365e45.png" group-title="Bein Sport LOW",Bein Sports LOW-ENGLISH 1
-http://ghostiptv.vip:80/live/test55/test55/25339.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sports LOW-ENGLISH 2" tvg-logo="http://ghostiptv.vip:80/images/a733f8868555620556c53ff670fcb934.png" group-title="Bein Sport LOW",Bein Sports LOW-ENGLISH 2
-http://ghostiptv.vip:80/live/test55/test55/25340.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sports LOW-ENGLISH 3" tvg-logo="http://ghostiptv.vip:80/images/3cd654390ee5de1de9c71c3c0e44f9db.png" group-title="Bein Sport LOW",Bein Sports LOW-ENGLISH 3
-http://ghostiptv.vip:80/live/test55/test55/25341.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sport French LOW1" tvg-logo="http://ghostiptv.vip:80/images/94260e63c085dc1200fad2d4a65c61af.png" group-title="Bein Sport LOW",Bein Sport French LOW1
-http://ghostiptv.vip:80/live/test55/test55/25342.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sport French LOW 2" tvg-logo="http://ghostiptv.vip:80/images/0ee338a60a77f5012d04f769d4e922e7.png" group-title="Bein Sport LOW",Bein Sport French LOW 2
-http://ghostiptv.vip:80/live/test55/test55/25343.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sports SD-PERMIUM 1" tvg-logo="http://ghostiptv.vip:80/images/664e959174fde9763f371b9988aa84e0.png" group-title="Bein Sport SD",Bein Sports SD-PERMIUM 1
-http://ghostiptv.vip:80/live/test55/test55/25.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sports SD-PERMIUM 2" tvg-logo="http://ghostiptv.vip:80/images/9e0a9e589178c0b2f8bdfe1fccf515ae.png" group-title="Bein Sport SD",Bein Sports SD-PERMIUM 2
-http://ghostiptv.vip:80/live/test55/test55/26.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sports SD-PERMIUM 3" tvg-logo="http://ghostiptv.vip:80/images/f53b6f0fc4152edfd40cbb095438f73d.png" group-title="Bein Sport SD",Bein Sports SD-PERMIUM 3
-http://ghostiptv.vip:80/live/test55/test55/27.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sports SD-1" tvg-logo="http://ghostiptv.vip:80/images/27cb32fe67691f6d913545795b767a28.png" group-title="Bein Sport SD",Bein Sports SD-1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sports LOW-PERMIUM 1" tvg-logo="http://ghostiptv.vip:80/images/664e959174fde9763f371b9988aa84e0.png" group-title="GhostIPTV  Low",Bein Sports LOW-PERMIUM 1
+http://ghostiptv.vip:80/live/test55/test55/25336.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sports LOW-PERMIUM 2" tvg-logo="http://ghostiptv.vip:80/images/9e0a9e589178c0b2f8bdfe1fccf515ae.png" group-title="GhostIPTV  Low",Bein Sports LOW-PERMIUM 2
+http://ghostiptv.vip:80/live/test55/test55/25337.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sports LOW-PERMUIM 3" tvg-logo="http://ghostiptv.vip:80/images/f53b6f0fc4152edfd40cbb095438f73d.png" group-title="GhostIPTV  Low",Bein Sports LOW-PERMUIM 3
+http://ghostiptv.vip:80/live/test55/test55/25338.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sports SD-1" tvg-logo="http://ghostiptv.vip:80/images/27cb32fe67691f6d913545795b767a28.png" group-title="GhostIptv SD",Bein Sports SD-1
 http://ghostiptv.vip:80/live/test55/test55/18.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sports SD-2" tvg-logo="http://ghostiptv.vip:80/images/6e9e1151c4b1b80b513850509a84d73a.png" group-title="Bein Sport SD",Bein Sports SD-2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sports SD-2" tvg-logo="http://ghostiptv.vip:80/images/6e9e1151c4b1b80b513850509a84d73a.png" group-title="GhostIptv SD",Bein Sports SD-2
 http://ghostiptv.vip:80/live/test55/test55/19.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sports SD-3" tvg-logo="http://ghostiptv.vip:80/images/0940b7d404bbd2b66820615102b9bf34.png" group-title="Bein Sport SD",Bein Sports SD-3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sports SD-3" tvg-logo="http://ghostiptv.vip:80/images/0940b7d404bbd2b66820615102b9bf34.png" group-title="GhostIptv SD",Bein Sports SD-3
 http://ghostiptv.vip:80/live/test55/test55/20.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sports SD-4" tvg-logo="http://ghostiptv.vip:80/images/9209863f5031badd668c134c468bff98.png" group-title="Bein Sport SD",Bein Sports SD-4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sports SD-4" tvg-logo="http://ghostiptv.vip:80/images/9209863f5031badd668c134c468bff98.png" group-title="GhostIptv SD",Bein Sports SD-4
 http://ghostiptv.vip:80/live/test55/test55/21.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sports SD-5" tvg-logo="http://ghostiptv.vip:80/images/46cfc27d0fc2aea81ea48bf174381542.png" group-title="Bein Sport SD",Bein Sports SD-5
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sports SD-5" tvg-logo="http://ghostiptv.vip:80/images/46cfc27d0fc2aea81ea48bf174381542.png" group-title="GhostIptv SD",Bein Sports SD-5
 http://ghostiptv.vip:80/live/test55/test55/22.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sports SD-6" tvg-logo="http://ghostiptv.vip:80/images/1d2c6e6d8d24c0744011b1496dbb7217.png" group-title="Bein Sport SD",Bein Sports SD-6
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sports SD-6" tvg-logo="http://ghostiptv.vip:80/images/1d2c6e6d8d24c0744011b1496dbb7217.png" group-title="GhostIptv SD",Bein Sports SD-6
 http://ghostiptv.vip:80/live/test55/test55/23.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sports SD-7" tvg-logo="http://ghostiptv.vip:80/images/c086285f6e3e2f3b33067a856aa6ac6b.png" group-title="Bein Sport SD",Bein Sports SD-7
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sports SD-7" tvg-logo="http://ghostiptv.vip:80/images/c086285f6e3e2f3b33067a856aa6ac6b.png" group-title="GhostIptv SD",Bein Sports SD-7
 http://ghostiptv.vip:80/live/test55/test55/24.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sports SD-ENGLISH 1" tvg-logo="http://ghostiptv.vip:80/images/3aff257a92d8aec877a0f5471b365e45.png" group-title="Bein Sport SD",Bein Sports SD-ENGLISH 1
-http://ghostiptv.vip:80/live/test55/test55/28.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sports SD-ENGLISH 2" tvg-logo="http://ghostiptv.vip:80/images/a733f8868555620556c53ff670fcb934.png" group-title="Bein Sport SD",Bein Sports SD-ENGLISH 2
-http://ghostiptv.vip:80/live/test55/test55/29.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sport English SD3" tvg-logo="http://ghostiptv.vip:80/images/3cd654390ee5de1de9c71c3c0e44f9db.png" group-title="Bein Sport SD",Bein Sport English SD3
-http://ghostiptv.vip:80/live/test55/test55/30.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sport French SD1" tvg-logo="http://ghostiptv.vip:80/images/94260e63c085dc1200fad2d4a65c61af.png" group-title="Bein Sport SD",Bein Sport French SD1
-http://ghostiptv.vip:80/live/test55/test55/31.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sport French SD2" tvg-logo="http://ghostiptv.vip:80/images/0ee338a60a77f5012d04f769d4e922e7.png" group-title="Bein Sport SD",Bein Sport French SD2
-http://ghostiptv.vip:80/live/test55/test55/32.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sports SD-PERMIUM 1" tvg-logo="http://ghostiptv.vip:80/images/664e959174fde9763f371b9988aa84e0.png" group-title="GhostIptv SD",Bein Sports SD-PERMIUM 1
+http://ghostiptv.vip:80/live/test55/test55/25.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sports SD-PERMIUM 2" tvg-logo="http://ghostiptv.vip:80/images/9e0a9e589178c0b2f8bdfe1fccf515ae.png" group-title="GhostIptv SD",Bein Sports SD-PERMIUM 2
+http://ghostiptv.vip:80/live/test55/test55/26.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sports SD-PERMIUM 3" tvg-logo="http://ghostiptv.vip:80/images/f53b6f0fc4152edfd40cbb095438f73d.png" group-title="GhostIptv SD",Bein Sports SD-PERMIUM 3
+http://ghostiptv.vip:80/live/test55/test55/27.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN SPORT PREMIUM 01 HD" tvg-logo="http://ghostiptv.vip:80/images/664e959174fde9763f371b9988aa84e0.png" group-title="BEIN HD BACK",beIN SPORT PREMIUM 01 HD
 http://ghostiptv.vip:80/live/test55/test55/49259.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN SPORT PREMIUM 02 HD" tvg-logo="http://ghostiptv.vip:80/images/9e0a9e589178c0b2f8bdfe1fccf515ae.png" group-title="BEIN HD BACK",beIN SPORT PREMIUM 02 HD
