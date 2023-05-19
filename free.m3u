@@ -1,4 +1,24 @@
 #EXTM3U url-tvg=""
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein 1 1MB" tvg-logo="https://lh3.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="uniontv",Bein 1 1MB
+http://uniontvs.com:8080/live/72292982Jwo/9202928jwb/83441.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein 2 1MB" tvg-logo="https://lh3.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="uniontv",Bein 2 1MB
+http://uniontvs.com:8080/live/72292982Jwo/9202928jwb/83442.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein 3 1MB" tvg-logo="https://lh3.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="uniontv",Bein 3 1MB
+http://uniontvs.com:8080/live/72292982Jwo/9202928jwb/83443.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein 4 1MB" tvg-logo="https://lh3.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="uniontv",Bein 4 1MB
+http://uniontvs.com:8080/live/72292982Jwo/9202928jwb/83444.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein 5 1MB" tvg-logo="https://lh3.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="uniontv",Bein 5 1MB
+http://uniontvs.com:8080/live/72292982Jwo/9202928jwb/83445.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein 6 1MB" tvg-logo="https://lh3.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="uniontv",Bein 6 1MB
+http://uniontvs.com:8080/live/72292982Jwo/9202928jwb/83446.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein 7 1MB" tvg-logo="https://lh3.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="uniontv",Bein 7 1MB
+http://uniontvs.com:8080/live/72292982Jwo/9202928jwb/83447.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN SPORTS 1 PREMIUM 1MB" tvg-logo="https://lh3.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="uniontv",beIN SPORTS 1 PREMIUM 1MB
+http://uniontvs.com:8080/live/72292982Jwo/9202928jwb/83448.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN SPORTS 2 PREMIUM 1MB" tvg-logo="https://lh3.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="uniontv",beIN SPORTS 2 PREMIUM 1MB
+http://uniontvs.com:8080/live/72292982Jwo/9202928jwb/83449.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN SPORTS 3 PREMIUM 1MB" tvg-logo="https://lh3.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="uniontv",beIN SPORTS 3 PREMIUM 1MB
+http://uniontvs.com:8080/live/72292982Jwo/9202928jwb/83450.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sports LOW-1" tvg-logo="http://ghostiptv.vip:80/images/27cb32fe67691f6d913545795b767a28.png" group-title="GhostIPTV  Low",Bein Sports LOW-1
 http://ghostiptv.vip:80/live/001243249AD2/637a806ef1e3b/25329.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sports LOW-2" tvg-logo="http://ghostiptv.vip:80/images/6e9e1151c4b1b80b513850509a84d73a.png" group-title="GhostIPTV  Low",Bein Sports LOW-2
