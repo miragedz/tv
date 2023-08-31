@@ -1,5 +1,5 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sports Low" tvg-logo="" group-title="New-pro",Bein Sports Low
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sports Low"  tvg-logo="https://lh3.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="New-pro",Bein Sports Low
 http://new-pro.tv:8080/live/99622282/etbVXafU6f/381749.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sports News Low" tvg-logo="http://vod-logo.net/photos/620314d9fb6f87c148905072aac1450c.png" group-title="New-pro",Bein Sports News Low
 http://new-pro.tv:8080/live/99622282/etbVXafU6f/381748.ts
