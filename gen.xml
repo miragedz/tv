@@ -1,0 +1,12 @@
+<keymap>
+<global>
+<keyboard>
+	<!--
+powe2btn
+->
+<key id="235">activatewindow(shutdownmenu)</key>
+<!--power2btn->
+<key id="232">RestartApp</key>    
+</keyboard>
+</global>
+</keymap>
