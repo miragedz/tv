@@ -1,5 +1,5 @@
 <keymap>
-<global>
+<global><!-- Ceci est un commentaire -->
 <keyboard>
 <key id="235">activatewindow(shutdownmenu)</key>
 <key id="232">RestartApp</key>    
