@@ -1,59 +1,59 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Live" tvg-logo="" group-title="LiveUrl",mirageChannel
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Live" tvg-logo="" group-title="⚽LiveUrl",mirageChannel
 http://ffg.gogo8k.me:80/play/live.php?mac=00:1A:79:7b:80:00&stream=412890&extension=ts&play_token=2oiHA6DeBw
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sports News Low" tvg-logo="http://vod-logo.net/photos/620314d9fb6f87c148905072aac1450c.png" group-title="LiveUrl",Bein Sports News Low
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sports News Low" tvg-logo="http://vod-logo.net/photos/620314d9fb6f87c148905072aac1450c.png" group-title="⚽LiveUrl",Bein Sports News Low
 http://new-pro.tv:8080/live/99622282/etbVXafU6f/381748.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BeIN Sports Premium 1 SD" tvg-logo="http://vod-logo.net/photos/d8979da0f4daedf3dacd71056263ba10.png" group-title="LiveUrl",BeIN Sports Premium 1 SD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BeIN Sports Premium 1 SD" tvg-logo="http://vod-logo.net/photos/d8979da0f4daedf3dacd71056263ba10.png" group-title="⚽LiveUrl",BeIN Sports Premium 1 SD
 http://new-pro.tv:8080/live/99622282/etbVXafU6f/33687.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sports Premium 1 Low" tvg-logo="http://vod-logo.net/photos/d8979da0f4daedf3dacd71056263ba10.png" group-title="LiveUrl",Bein Sports Premium 1 Low
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sports Premium 1 Low" tvg-logo="http://vod-logo.net/photos/d8979da0f4daedf3dacd71056263ba10.png" group-title="⚽LiveUrl",Bein Sports Premium 1 Low
 http://new-pro.tv:8080/live/99622282/etbVXafU6f/381736.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BeIN Sports Premium 2 SD" tvg-logo="http://vod-logo.net/photos/b0c22a01ce75c2bc2ee3eba64f665f4a.png" group-title="LiveUrl",BeIN Sports Premium 2 SD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BeIN Sports Premium 2 SD" tvg-logo="http://vod-logo.net/photos/b0c22a01ce75c2bc2ee3eba64f665f4a.png" group-title="⚽LiveUrl",BeIN Sports Premium 2 SD
 http://new-pro.tv:8080/live/99622282/etbVXafU6f/33686.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sports Premium 2 Low" tvg-logo="http://vod-logo.net/photos/b0c22a01ce75c2bc2ee3eba64f665f4a.png" group-title="LiveUrl",Bein Sports Premium 2 Low
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sports Premium 2 Low" tvg-logo="http://vod-logo.net/photos/b0c22a01ce75c2bc2ee3eba64f665f4a.png" group-title="⚽LiveUrl",Bein Sports Premium 2 Low
 http://new-pro.tv:8080/live/99622282/etbVXafU6f/381737.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BeIN Sports Premium 3 SD" tvg-logo="http://vod-logo.net/photos/709450ed696f69c55928f286c0dd5a98.png" group-title="LiveUrl",BeIN Sports Premium 3 SD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BeIN Sports Premium 3 SD" tvg-logo="http://vod-logo.net/photos/709450ed696f69c55928f286c0dd5a98.png" group-title="⚽LiveUrl",BeIN Sports Premium 3 SD
 http://new-pro.tv:8080/live/99622282/etbVXafU6f/33685.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sports Premium 3 Low" tvg-logo="http://vod-logo.net/photos/709450ed696f69c55928f286c0dd5a98.png" group-title="LiveUrl",Bein Sports Premium 3 Low
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sports Premium 3 Low" tvg-logo="http://vod-logo.net/photos/709450ed696f69c55928f286c0dd5a98.png" group-title="⚽LiveUrl",Bein Sports Premium 3 Low
 http://new-pro.tv:8080/live/99622282/etbVXafU6f/381738.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sport AFC SD" tvg-logo="" group-title="LiveUrl",Bein Sport AFC SD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sport AFC SD" tvg-logo="" group-title="⚽LiveUrl",Bein Sport AFC SD
 http://new-pro.tv:8080/live/99622282/etbVXafU6f/415146.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sport AFC 1 SD" tvg-logo="" group-title="LiveUrl",Bein Sport AFC 1 SD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sport AFC 1 SD" tvg-logo="" group-title="⚽LiveUrl",Bein Sport AFC 1 SD
 http://new-pro.tv:8080/live/99622282/etbVXafU6f/415147.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BeIN Sports 1 SD" tvg-logo="http://vod-logo.net/photos/fc1e5b8b7098e5d560a7e6c4100f6f36.png" group-title="LiveUrl",BeIN Sports 1 SD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BeIN Sports 1 SD" tvg-logo="http://vod-logo.net/photos/fc1e5b8b7098e5d560a7e6c4100f6f36.png" group-title="⚽LiveUrl",BeIN Sports 1 SD
 http://new-pro.tv:8080/live/99622282/etbVXafU6f/33684.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sports 1 Low" tvg-logo="" group-title="LiveUrl",Bein Sports 1 Low
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sports 1 Low" tvg-logo="" group-title="⚽LiveUrl",Bein Sports 1 Low
 http://new-pro.tv:8080/live/99622282/etbVXafU6f/381739.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BeIN Sports 2 SD" tvg-logo="http://vod-logo.net/photos/3b74a0968f7c2ce40653714122b5110f.png" group-title="LiveUrl",BeIN Sports 2 SD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BeIN Sports 2 SD" tvg-logo="http://vod-logo.net/photos/3b74a0968f7c2ce40653714122b5110f.png" group-title="⚽LiveUrl",BeIN Sports 2 SD
 http://new-pro.tv:8080/live/99622282/etbVXafU6f/33683.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sports 2 Low" tvg-logo="http://vod-logo.net/photos/3b74a0968f7c2ce40653714122b5110f.png" group-title="LiveUrl",Bein Sports 2 Low
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sports 2 Low" tvg-logo="http://vod-logo.net/photos/3b74a0968f7c2ce40653714122b5110f.png" group-title="⚽LiveUrl",Bein Sports 2 Low
 http://new-pro.tv:8080/live/99622282/etbVXafU6f/381740.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BeIN Sports 3 SD" tvg-logo="http://vod-logo.net/photos/f5b3de2eb929c4df6ebdacc7589e72ee.png" group-title="LiveUrl",BeIN Sports 3 SD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BeIN Sports 3 SD" tvg-logo="http://vod-logo.net/photos/f5b3de2eb929c4df6ebdacc7589e72ee.png" group-title="⚽LiveUrl",BeIN Sports 3 SD
 http://new-pro.tv:8080/live/99622282/etbVXafU6f/33682.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sports 3 Low" tvg-logo="http://vod-logo.net/photos/f5b3de2eb929c4df6ebdacc7589e72ee.png" group-title="LiveUrl",Bein Sports 3 Low
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sports 3 Low" tvg-logo="http://vod-logo.net/photos/f5b3de2eb929c4df6ebdacc7589e72ee.png" group-title="⚽LiveUrl",Bein Sports 3 Low
 http://new-pro.tv:8080/live/99622282/etbVXafU6f/381741.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BeIN Sports 4 SD" tvg-logo="http://vod-logo.net/photos/59c08cd7ddb26d95336a8227ead44ef8.png" group-title="LiveUrl",BeIN Sports 4 SD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BeIN Sports 4 SD" tvg-logo="http://vod-logo.net/photos/59c08cd7ddb26d95336a8227ead44ef8.png" group-title="⚽LiveUrl",BeIN Sports 4 SD
 http://new-pro.tv:8080/live/99622282/etbVXafU6f/33681.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sports 4 Low" tvg-logo="http://vod-logo.net/photos/59c08cd7ddb26d95336a8227ead44ef8.png" group-title="LiveUrl",Bein Sports 4 Low
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sports 4 Low" tvg-logo="http://vod-logo.net/photos/59c08cd7ddb26d95336a8227ead44ef8.png" group-title="⚽LiveUrl",Bein Sports 4 Low
 http://new-pro.tv:8080/live/99622282/etbVXafU6f/381742.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BeIN Sports 5 SD" tvg-logo="http://vod-logo.net/photos/b6789428e7cce491d3db83fc62b53dc3.png" group-title="LiveUrl",BeIN Sports 5 SD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BeIN Sports 5 SD" tvg-logo="http://vod-logo.net/photos/b6789428e7cce491d3db83fc62b53dc3.png" group-title="⚽LiveUrl",BeIN Sports 5 SD
 http://new-pro.tv:8080/live/99622282/etbVXafU6f/33680.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sports 5 Low" tvg-logo="http://vod-logo.net/photos/b6789428e7cce491d3db83fc62b53dc3.png" group-title="LiveUrl",Bein Sports 5 Low
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sports 5 Low" tvg-logo="http://vod-logo.net/photos/b6789428e7cce491d3db83fc62b53dc3.png" group-title="⚽LiveUrl",Bein Sports 5 Low
 http://new-pro.tv:8080/live/99622282/etbVXafU6f/381743.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BeIN Sports 6 SD" tvg-logo="" group-title="LiveUrl",BeIN Sports 6 SD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BeIN Sports 6 SD" tvg-logo="" group-title="⚽LiveUrl",BeIN Sports 6 SD
 http://new-pro.tv:8080/live/99622282/etbVXafU6f/33679.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BeIN Sports 6 SD Low" tvg-logo="" group-title="LiveUrl",BeIN Sports 6 SD Low
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BeIN Sports 6 SD Low" tvg-logo="" group-title="⚽LiveUrl",BeIN Sports 6 SD Low
 http://new-pro.tv:8080/live/99622282/etbVXafU6f/381744.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BeIN Sports 7 SD" tvg-logo="" group-title="LiveUrl",BeIN Sports 7 SD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BeIN Sports 7 SD" tvg-logo="" group-title="⚽LiveUrl",BeIN Sports 7 SD
 http://new-pro.tv:8080/live/99622282/etbVXafU6f/33678.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BeIN Sports 7 SD Low" tvg-logo="" group-title="LiveUrl",BeIN Sports 7 SD Low
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BeIN Sports 7 SD Low" tvg-logo="" group-title="⚽LiveUrl",BeIN Sports 7 SD Low
 http://new-pro.tv:8080/live/99622282/etbVXafU6f/381745.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BeIN Sports Xtra 1 SD" tvg-logo="http://vod-logo.net/photos/b81ce8380ce399ee2c4181f5455d4e7e.png" group-title="LiveUrl",BeIN Sports Xtra 1 SD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BeIN Sports Xtra 1 SD" tvg-logo="http://vod-logo.net/photos/b81ce8380ce399ee2c4181f5455d4e7e.png" group-title="⚽LiveUrl",BeIN Sports Xtra 1 SD
 http://new-pro.tv:8080/live/99622282/etbVXafU6f/176225.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BeIN Sports Xtra 2 SD" tvg-logo="http://vod-logo.net/photos/32d44ce856467ec328c3dcd941814da8.png" group-title="LiveUrl",BeIN Sports Xtra 2 SD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BeIN Sports Xtra 2 SD" tvg-logo="http://vod-logo.net/photos/32d44ce856467ec328c3dcd941814da8.png" group-title="⚽LiveUrl",BeIN Sports Xtra 2 SD
 http://new-pro.tv:8080/live/99622282/etbVXafU6f/176226.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BeIN Sports Xtra 1 Low" tvg-logo="http://vod-logo.net/photos/b81ce8380ce399ee2c4181f5455d4e7e.png" group-title="LiveUrl",BeIN Sports Xtra 1 Low
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BeIN Sports Xtra 1 Low" tvg-logo="http://vod-logo.net/photos/b81ce8380ce399ee2c4181f5455d4e7e.png" group-title="⚽LiveUrl",BeIN Sports Xtra 1 Low
 http://new-pro.tv:8080/live/99622282/etbVXafU6f/381746.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BeIN Sports Xtra 2 Low" tvg-logo="http://vod-logo.net/photos/32d44ce856467ec328c3dcd941814da8.png" group-title="LiveUrl",BeIN Sports Xtra 2 Low
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BeIN Sports Xtra 2 Low" tvg-logo="http://vod-logo.net/photos/32d44ce856467ec328c3dcd941814da8.png" group-title="⚽LiveUrl",BeIN Sports Xtra 2 Low
 http://new-pro.tv:8080/live/99622282/etbVXafU6f/381747.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein 1 1MB" tvg-logo="https://lh3.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="uniontv",Bein 1 1MB
 http://uniontvs.com:8080/live/72292982Jwo/9202928jwb/83441.ts
