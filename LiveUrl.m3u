@@ -1,6 +1,6 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Live" tvg-logo="" group-title="New-pro",Bein Sports Low
-https://het129a.4rouwanda-shop.store/live/10011244/index.m3u8?t=rcJ_q1czrdAQlMV5uE0yGg&e=1731877060
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Live" tvg-logo="" group-title="LiveUrl",mirageChannel
+http://ffg.gogo8k.me:80/play/live.php?mac=00:1A:79:7b:80:00&stream=412890&extension=ts&play_token=2oiHA6DeBw
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sports News Low" tvg-logo="http://vod-logo.net/photos/620314d9fb6f87c148905072aac1450c.png" group-title="New-pro",Bein Sports News Low
 http://new-pro.tv:8080/live/99622282/etbVXafU6f/381748.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BeIN Sports Premium 1 SD" tvg-logo="http://vod-logo.net/photos/d8979da0f4daedf3dacd71056263ba10.png" group-title="New-pro",BeIN Sports Premium 1 SD
