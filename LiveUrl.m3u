@@ -1,7 +1,1 @@
-EXTM3U url-tvg=""
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sports News Low" tvg-logo="http://vod-logo.net/photos/620314d9fb6f87c148905072aac1450c.png" group-title="LiveUrl",macUrlCannel
-http://ffg.gogo8k.me:80/play/live.php?mac=00:1A:79:7b:80:00&stream=412890&extension=ts&play_token=2oiHA6DeBw
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sports News Low" tvg-logo="http://vod-logo.net/photos/620314d9fb6f87c148905072aac1450c.png" group-title="LiveUrl",macUrlCannel
-http://ffg.gogo8k.me:80/play/live.php?mac=00:1A:79:7b:80:00&stream=412890&extension=ts&play_token=2oiHA6DeBw
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sports News Low" tvg-logo="http://vod-logo.net/photos/620314d9fb6f87c148905072aac1450c.png" group-title="LiveUrl",macUrlCannel
-http://ffg.gogo8k.me:80/play/live.php?mac=00:1A:79:7b:80:00&stream=412890&extension=ts&play_token=2oiHA6DeBw
+http://200.26.188.39:80/play/live.php?mac=00:1A:79:AD:17:0E&stream=941427&extension=ts
