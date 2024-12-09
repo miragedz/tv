@@ -1,3 +1,433 @@
-#EXTM3U url-tvg=""
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bein Sports Low" tvg-logo="" group-title="LiveLink",Link
-http://200.26.188.39:80/play/live.php?mac=00:1A:79:AD:17:0E&stream=941427&extension=ts
+#EXTM3U
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="•●★★--- beIN SPORTS [HVEC_H265] ---★★●•" tvg-logo="" group-title="Ugeen - beIN SPORTS [HVEC_H265] ",•●★★--- beIN SPORTS [HVEC_H265] ---★★●•
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/3703.ts
+#EXTINF:-1 tvg-id="aljazeeradocumentary.qa" tvg-name="beIN SPORTS 1 [H265]" tvg-logo="https://imgur.com/6ErnOc1.png" group-title="Ugeen - beIN SPORTS [HVEC_H265] ",beIN SPORTS 1 [H265]
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/459.ts
+#EXTINF:-1 tvg-id="aljazeeradocumentary.qa" tvg-name="beIN SPORTS 2 [H265]" tvg-logo="https://imgur.com/mX4NA2Y.png" group-title="Ugeen - beIN SPORTS [HVEC_H265] ",beIN SPORTS 2 [H265]
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/450.ts
+#EXTINF:-1 tvg-id="aljazeeradocumentary.qa" tvg-name="beIN SPORTS 3 [H265]" tvg-logo="https://imgur.com/NmtMNZ0.png" group-title="Ugeen - beIN SPORTS [HVEC_H265] ",beIN SPORTS 3 [H265]
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/451.ts
+#EXTINF:-1 tvg-id="aljazeeradocumentary.qa" tvg-name="beIN SPORTS 4 [H265]" tvg-logo="https://i.imgur.com/0at73XQ.png" group-title="Ugeen - beIN SPORTS [HVEC_H265] ",beIN SPORTS 4 [H265]
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/453.ts
+#EXTINF:-1 tvg-id="aljazeeradocumentary.qa" tvg-name="beIN SPORTS 5 [H265]" tvg-logo="https://imgur.com/hULekso.png" group-title="Ugeen - beIN SPORTS [HVEC_H265] ",beIN SPORTS 5 [H265]
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/3875.ts
+#EXTINF:-1 tvg-id="aljazeeradocumentary.qa" tvg-name="beIN SPORTS 6 [H265]" tvg-logo="https://imgur.com/ssp2TaP.png" group-title="Ugeen - beIN SPORTS [HVEC_H265] ",beIN SPORTS 6 [H265]
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/455.ts
+#EXTINF:-1 tvg-id="aljazeeradocumentary.qa" tvg-name="beIN SPORTS 7 [H265]" tvg-logo="https://imgur.com/pFJrvy7.png" group-title="Ugeen - beIN SPORTS [HVEC_H265] ",beIN SPORTS 7 [H265]
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/4002.ts
+#EXTINF:-1 tvg-id="aljazeeradocumentary.qa" tvg-name="beIN SPORTS 8 [H265]" tvg-logo="https://imgur.com/PIuF1IS.png" group-title="Ugeen - beIN SPORTS [HVEC_H265] ",beIN SPORTS 8 [H265]
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/457.ts
+#EXTINF:-1 tvg-id="aljazeeradocumentary.qa" tvg-name="beIN SPORTS 9 [H265]" tvg-logo="https://imgur.com/NcoCTSl.png" group-title="Ugeen - beIN SPORTS [HVEC_H265] ",beIN SPORTS 9 [H265]
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/4003.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="•●★★--- beIN SPORTS ᴴᴰ ---★★●•" tvg-logo="https://i.imgur.com/AF9RoE2.png" group-title="Ugeen - beIN SPORTS [HD] ⚽",•●★★--- beIN SPORTS ᴴᴰ ---★★●•
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/117.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sport Global" tvg-logo="" group-title="Ugeen - beIN SPORTS [HD] ⚽",beIN Sport Global
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/4336.ts
+#EXTINF:-1 tvg-id="aljazeeradocumentary.qa" tvg-name="beIN SPORTS News" tvg-logo="https://i.imgur.com/WOwcw3U.png" group-title="Ugeen - beIN SPORTS [HD] ⚽",beIN SPORTS News
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/2051.ts
+#EXTINF:-1 tvg-id="aljazeeradocumentary.qa" tvg-name="beIN SPORTS 1 ᴴᴰ" tvg-logo="https://imgur.com/6ErnOc1.png" group-title="Ugeen - beIN SPORTS [HD] ⚽",beIN SPORTS 1 ᴴᴰ
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/46.ts
+#EXTINF:-1 tvg-id="aljazeeradocumentary.qa" tvg-name="beIN SPORTS 2 ᴴᴰ" tvg-logo="https://imgur.com/mX4NA2Y.png" group-title="Ugeen - beIN SPORTS [HD] ⚽",beIN SPORTS 2 ᴴᴰ
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/47.ts
+#EXTINF:-1 tvg-id="aljazeeradocumentary.qa" tvg-name="beIN SPORTS 3 ᴴᴰ" tvg-logo="https://i.imgur.com/NmtMNZ0.png" group-title="Ugeen - beIN SPORTS [HD] ⚽",beIN SPORTS 3 ᴴᴰ
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/49.ts
+#EXTINF:-1 tvg-id="aljazeeradocumentary.qa" tvg-name="beIN SPORTS 4 ᴴᴰ" tvg-logo="https://i.imgur.com/0at73XQ.png" group-title="Ugeen - beIN SPORTS [HD] ⚽",beIN SPORTS 4 ᴴᴰ
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/50.ts
+#EXTINF:-1 tvg-id="aljazeeradocumentary.qa" tvg-name="beIN SPORTS 5 ᴴᴰ" tvg-logo="https://imgur.com/hULekso.png" group-title="Ugeen - beIN SPORTS [HD] ⚽",beIN SPORTS 5 ᴴᴰ
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/51.ts
+#EXTINF:-1 tvg-id="aljazeeradocumentary.qa" tvg-name="beIN SPORTS 6 ᴴᴰ" tvg-logo="https://imgur.com/ssp2TaP.png" group-title="Ugeen - beIN SPORTS [HD] ⚽",beIN SPORTS 6 ᴴᴰ
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/52.ts
+#EXTINF:-1 tvg-id="aljazeeradocumentary.qa" tvg-name="beIN SPORTS 7 ᴴᴰ" tvg-logo="https://imgur.com/pFJrvy7.png" group-title="Ugeen - beIN SPORTS [HD] ⚽",beIN SPORTS 7 ᴴᴰ
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/53.ts
+#EXTINF:-1 tvg-id="aljazeeradocumentary.qa" tvg-name="beIN SPORTS 8 ᴴᴰ" tvg-logo="https://imgur.com/PIuF1IS.png" group-title="Ugeen - beIN SPORTS [HD] ⚽",beIN SPORTS 8 ᴴᴰ
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/54.ts
+#EXTINF:-1 tvg-id="aljazeeradocumentary.qa" tvg-name="beIN SPORTS 9 ᴴᴰ" tvg-logo="https://imgur.com/NcoCTSl.png" group-title="Ugeen - beIN SPORTS [HD] ⚽",beIN SPORTS 9 ᴴᴰ
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/4034.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN SPORTS XTRA 1 ᴴᴰ" tvg-logo="" group-title="Ugeen - beIN SPORTS [HD] ⚽",beIN SPORTS XTRA 1 ᴴᴰ
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/4095.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN SPORTS XTRA 2 ᴴᴰ" tvg-logo="" group-title="Ugeen - beIN SPORTS [HD] ⚽",beIN SPORTS XTRA 2 ᴴᴰ
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/4096.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN SPORTS XTRA 3 ᴴᴰ" tvg-logo="" group-title="Ugeen - beIN SPORTS [HD] ⚽",beIN SPORTS XTRA 3 ᴴᴰ
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/4299.ts
+#EXTINF:-1 tvg-id="aljazeeradocumentary.qa" tvg-name="beIN SPORTS  ENGLISH 1 ᴴᴰ" tvg-logo="https://i.imgur.com/Z03QVfY.png" group-title="Ugeen - beIN SPORTS [HD] ⚽",beIN SPORTS  ENGLISH 1 ᴴᴰ
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/3001.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN SPORTS ENGLISH 2 ᴴᴰ" tvg-logo="" group-title="Ugeen - beIN SPORTS [HD] ⚽",beIN SPORTS ENGLISH 2 ᴴᴰ
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/4295.ts
+#EXTINF:-1 tvg-id="aljazeeradocumentary.qa" tvg-name="beIN SPORTS  FRENCH 1 ᴴᴰ" tvg-logo="https://i.imgur.com/MUYDHty.png" group-title="Ugeen - beIN SPORTS [HD] ⚽",beIN SPORTS  FRENCH 1 ᴴᴰ
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/3972.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN SPORTS FRENCH 2 ᴴᴰ" tvg-logo="" group-title="Ugeen - beIN SPORTS [HD] ⚽",beIN SPORTS FRENCH 2 ᴴᴰ
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/4296.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN SPORTS FRENCH 3 ᴴᴰ" tvg-logo="" group-title="Ugeen - beIN SPORTS [HD] ⚽",beIN SPORTS FRENCH 3 ᴴᴰ
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/4297.ts
+#EXTINF:-1 tvg-id="beinsportsnba.qa" tvg-name="beIN SPORTS NBA" tvg-logo="https://i.imgur.com/rkG4f3c.png" group-title="Ugeen - beIN SPORTS [HD] ⚽",beIN SPORTS NBA
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/3973.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="•●★★--- beIN SPORTS SD ---★★●•" tvg-logo="" group-title="Ugeen - beIN SPORTS [SD] ⚽",•●★★--- beIN SPORTS SD ---★★●•
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/2873.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN SPORTS 1 SD" tvg-logo="https://i.imgur.com/NaRtkg0.png" group-title="Ugeen - beIN SPORTS [SD] ⚽",beIN SPORTS 1 SD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/56.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN SPORTS 2 SD" tvg-logo="https://i.imgur.com/5oFBjtr.png" group-title="Ugeen - beIN SPORTS [SD] ⚽",beIN SPORTS 2 SD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/57.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN SPORTS 3 SD" tvg-logo="https://i.imgur.com/ThhcnRm.png" group-title="Ugeen - beIN SPORTS [SD] ⚽",beIN SPORTS 3 SD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/59.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN SPORTS 4 SD" tvg-logo="https://i.imgur.com/059qkdi.png" group-title="Ugeen - beIN SPORTS [SD] ⚽",beIN SPORTS 4 SD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/60.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN SPORTS 5 SD" tvg-logo="https://i.imgur.com/5ju9mG5.png" group-title="Ugeen - beIN SPORTS [SD] ⚽",beIN SPORTS 5 SD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/93.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN SPORTS 6 SD" tvg-logo="https://i.imgur.com/8sOLLRa.png" group-title="Ugeen - beIN SPORTS [SD] ⚽",beIN SPORTS 6 SD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/92.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN SPORTS 7 SD" tvg-logo="https://i.imgur.com/R0nhSJa.png" group-title="Ugeen - beIN SPORTS [SD] ⚽",beIN SPORTS 7 SD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/91.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN SPORTS 8 SD" tvg-logo="https://i.imgur.com/g7GT0ni.png" group-title="Ugeen - beIN SPORTS [SD] ⚽",beIN SPORTS 8 SD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/61.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN SPORTS 9 SD" tvg-logo="https://i.imgur.com/DaoqF3a.png" group-title="Ugeen - beIN SPORTS [SD] ⚽",beIN SPORTS 9 SD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/4035.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="•●★★--- France ---★★●•" tvg-logo="" group-title="Ugeen - France - فرنسا",•●★★--- France ---★★●•
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/478.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| CANAL FHD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| CANAL FHD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1022.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| CANAL CINEMA FIHD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| CANAL CINEMA FIHD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1023.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| CANAL DECALE FIHD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| CANAL DECALE FIHD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1024.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| CANAL SERIES FIHD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| CANAL SERIES FIHD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1026.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| CANAL FAMILY FIHD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| CANAL FAMILY FIHD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1025.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| CANAL SPORT FIHD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| CANAL SPORT FIHD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1027.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| CINE+ CLUB FIHD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| CINE+ CLUB FIHD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1029.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| CINE+ EMOTION FIHD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| CINE+ EMOTION FIHD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1030.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| CINE+ FAMIZ FIHD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| CINE+ FAMIZ FIHD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1031.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| CINE+ ¨POLAR FIHD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| CINE+ ¨POLAR FIHD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1033.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| TF1 HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| TF1 HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1036.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| M6 FHD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| M6 FHD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1037.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| W9 FHD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| W9 FHD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1039.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| ARTE HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| ARTE HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1041.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| RMC STORY FHD." tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| RMC STORY FHD.
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1042.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| FRANCE O HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| FRANCE O HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1044.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| FRANCE 2  FHD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| FRANCE 2  FHD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1045.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| FRANCE 2 HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| FRANCE 2 HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1046.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| FRANCE 3 HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| FRANCE 3 HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1047.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| FRANCE 3 FHD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| FRANCE 3 FHD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1048.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| FRANCE 4 FHD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| FRANCE 4 FHD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1049.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| FRANCE 4 HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| FRANCE 4 HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1050.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| FRANCE 5 FHD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| FRANCE 5 FHD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1051.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| FRANCE 5 HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| FRANCE 5 HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1052.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| TFX HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| TFX HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1053.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| CNEWS FHD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| CNEWS FHD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1055.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| TMC HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| TMC HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1054.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| EURONEWS" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| EURONEWS
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1057.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| FRANCE 24" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| FRANCE 24
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1058.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| TV5 MONDE" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| TV5 MONDE
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1059.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| RMC SPORT 1 HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| RMC SPORT 1 HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1073.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| RMC SPORT 2 HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| RMC SPORT 2 HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1074.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| RMC SPORT 3 HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| RMC SPORT 3 HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1075.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| RMC SPORT 4 HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| RMC SPORT 4 HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1076.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| BEIN SPORTS 1 HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| BEIN SPORTS 1 HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1077.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| BEIN SPORTS 2 HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| BEIN SPORTS 2 HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1078.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| BEIN SPORTS 3 HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| BEIN SPORTS 3 HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1079.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| BEIN MAX 4 HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| BEIN MAX 4 HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1080.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| BEIN MAX 5 HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| BEIN MAX 5 HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1081.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| BEIN MAX 7 HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| BEIN MAX 7 HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1083.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| BEIN MAX 8 HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| BEIN MAX 8 HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1084.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| BEIN MAX 9 HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| BEIN MAX 9 HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1085.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| BEIN MAX 10 HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| BEIN MAX 10 HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1086.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| BEIN MAX 6 HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| BEIN MAX 6 HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1082.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| EUROSPORT 1" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| EUROSPORT 1
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1088.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| EUROSPORT 2" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| EUROSPORT 2
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1089.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| FOOT+ 24/24" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| FOOT+ 24/24
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1090.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| L'EQUIPE 21 HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| L'EQUIPE 21 HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1091.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| GOLF+ HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| GOLF+ HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1092.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR:CRIME_DISTRICT_HD" tvg-logo="" group-title="Ugeen - France - فرنسا",FR:CRIME_DISTRICT_HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1093.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| INFOSPORT+ HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| INFOSPORT+ HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1094.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| RMC NEWS SPORT HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| RMC NEWS SPORT HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1095.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| EQUIDIA LIVE" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| EQUIDIA LIVE
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1096.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| AUTO MOTO HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| AUTO MOTO HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1098.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| CANAL+ HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| CANAL+ HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1100.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| CANAL+ CINEMA HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| CANAL+ CINEMA HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1101.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| CANAL+  CINEMA" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| CANAL+  CINEMA
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1102.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| CANAL+ SERIE" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| CANAL+ SERIE
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1104.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| CANAL+ SERIES HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| CANAL+ SERIES HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1103.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| CANAL+  FAMILY HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| CANAL+  FAMILY HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1105.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| CANAL+  FAMILY" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| CANAL+  FAMILY
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1106.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| CANAL+  DECALE HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| CANAL+  DECALE HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1107.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| CANAL+  DECALE" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| CANAL+  DECALE
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1108.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| CANAL+  SPORT HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| CANAL+  SPORT HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1109.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: CANAL+ Sport 360" tvg-logo="" group-title="Ugeen - France - فرنسا",FR: CANAL+ Sport 360
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/4268.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| OCS MAX HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| OCS MAX HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1110.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| OCS GEANT HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| OCS GEANT HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1111.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| OCS CITY HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| OCS CITY HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1113.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| CINE+  PREMIER HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| CINE+  PREMIER HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1115.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| OCS CHOC HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| OCS CHOC HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1112.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| CINE+  FRISSON HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| CINE+  FRISSON HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1116.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| CINE+  FAMIZ HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| CINE+  FAMIZ HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1117.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| CINE CLASSIC HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| CINE CLASSIC HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1119.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| CINE+ CLUB HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| CINE+ CLUB HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1120.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| PARAMOUNT CHANNEL HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| PARAMOUNT CHANNEL HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1123.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| TCM CINEMA HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| TCM CINEMA HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1124.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| ACTION HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| ACTION HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1125.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| E! HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| E! HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1126.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| BET HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| BET HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1127.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| COMEDIE+ FHD." tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| COMEDIE+ FHD.
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1129.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| MCM HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| MCM HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1128.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| SYFY HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| SYFY HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1131.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| PARIS PREMIERE HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| PARIS PREMIERE HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1132.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| TV BREIZH HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| TV BREIZH HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1134.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| RTL9 HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| RTL9 HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1135.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| TEVA HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| TEVA HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1136.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| SERIE CLUB HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| SERIE CLUB HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1137.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| 13EME RUE HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| 13EME RUE HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1138.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| AB1 HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| AB1 HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1140.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| AB3 HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| AB3 HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1142.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| MTV FRANCE HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| MTV FRANCE HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1139.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| GAME ONE HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| GAME ONE HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1144.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| CHERIE25 HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| CHERIE25 HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1145.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| NRJ12 HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| NRJ12 HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1146.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| RTS  DEUX HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| RTS  DEUX HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1148.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| 6TER HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| 6TER HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1149.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| HD1 FHD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| HD1 FHD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1150.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| CSTAR FHD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| CSTAR FHD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1153.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| TOONAMI  FHD." tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| TOONAMI  FHD.
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1155.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| Gong" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| Gong
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/3868.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| CARTOON NETWORK FHD." tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| CARTOON NETWORK FHD.
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1157.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| C8 HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| C8 HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1152.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| ZOUZOU TV HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| ZOUZOU TV HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1160.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| NICKELODEON JR HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| NICKELODEON JR HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1161.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| NICKELODEON HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| NICKELODEON HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1162.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| NICKELODEON 4TEEN HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| NICKELODEON 4TEEN HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1163.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| DISNEY CINEMA  FHD." tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| DISNEY CINEMA  FHD.
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1164.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| DISNEY CHANNEL  +1 HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| DISNEY CHANNEL  +1 HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1166.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| DISNEY XD FHD." tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| DISNEY XD FHD.
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1168.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| PIWI HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| PIWI HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1170.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| CANAL J HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| CANAL J HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1171.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| BOOMERANG HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| BOOMERANG HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1172.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| BOING HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| BOING HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1175.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| MANGAS HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| MANGAS HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1173.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| BOING FHD." tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| BOING FHD.
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1174.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| DISNEY JUNIOR HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| DISNEY JUNIOR HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1177.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| TIJI HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| TIJI HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1178.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| GULLI HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| GULLI HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1179.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| WEO HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| WEO HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1180.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| DISCOVERY FAMILY" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| DISCOVERY FAMILY
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1181.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| CRIME DISTRICT HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| CRIME DISTRICT HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1182.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| DISCOVERY INVESTIGATION HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| DISCOVERY INVESTIGATION HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1183.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| DISCOVERY HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| DISCOVERY HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1184.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| DISCOVERY SCIENCE  HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| DISCOVERY SCIENCE  HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1185.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| VOYAGE FHD." tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| VOYAGE FHD.
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1186.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| NATIONAL GEO HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| NATIONAL GEO HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1188.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| NATIONAL GEO WILD HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| NATIONAL GEO WILD HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1190.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| ANIMAUX HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| ANIMAUX HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1191.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| CHASSE ET PECHE HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| CHASSE ET PECHE HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1192.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| SEASONS HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| SEASONS HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1193.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| SCIENCES & VIE HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| SCIENCES & VIE HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1194.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| TOUTE L HISTOIRE HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| TOUTE L HISTOIRE HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1195.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| HISTOIRE HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| HISTOIRE HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1196.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| USHUAIA TV" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| USHUAIA TV
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1197.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| PLANETE+ A&E HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| PLANETE+ A&E HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1199.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| PLANETE  CI HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| PLANETE  CI HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1200.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| PLANETE+ HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| PLANETE+ HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1201.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| RMC DECOUVERTE HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| RMC DECOUVERTE HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1203.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| TREK HD" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| TREK HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1204.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| CANAL PLAY 1" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| CANAL PLAY 1
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1205.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| CANAL PLAY 2" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| CANAL PLAY 2
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1206.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| CANAL PLAY 3" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| CANAL PLAY 3
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1207.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| CANAL PLAY 4" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| CANAL PLAY 4
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1208.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| CANAL PLAY 5" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| CANAL PLAY 5
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1209.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR| CANAL PLAY 6" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR| CANAL PLAY 6
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1210.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR|  A LA CARTE 1" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR|  A LA CARTE 1
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1211.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR|  A LA CARTE 2" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR|  A LA CARTE 2
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1212.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR|  A LA CARTE 3" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR|  A LA CARTE 3
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1213.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR|  A LA CARTE 4" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR|  A LA CARTE 4
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1214.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR|  A LA CARTE 5" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR|  A LA CARTE 5
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1215.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR|  A LA CARTE 6" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR|  A LA CARTE 6
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1216.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR|  A LA CARTE 7" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR|  A LA CARTE 7
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1217.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR|  A LA CARTE 9" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR|  A LA CARTE 9
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1219.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR|  A LA CARTE 10" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR|  A LA CARTE 10
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1220.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|FR|  A LA CARTE 8" tvg-logo="" group-title="Ugeen - France - فرنسا",|FR|  A LA CARTE 8
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/1218.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[FR]_CANAL+ SPORT 1 HD" tvg-logo="" group-title="Ugeen - France - فرنسا",[FR]_CANAL+ SPORT 1 HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/4355.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[FR]_CANAL+ SPORT 2 HD" tvg-logo="" group-title="Ugeen - France - فرنسا",[FR]_CANAL+ SPORT 2 HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/4356.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[FR]_CANAL+ SPORT 3 HD" tvg-logo="" group-title="Ugeen - France - فرنسا",[FR]_CANAL+ SPORT 3 HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/4357.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[FR]_CANAL+ SPORT 4 HD" tvg-logo="" group-title="Ugeen - France - فرنسا",[FR]_CANAL+ SPORT 4 HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/4358.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[FR]_CANAL+ SPORT 5 HD" tvg-logo="" group-title="Ugeen - France - فرنسا",[FR]_CANAL+ SPORT 5 HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/4359.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: Amazon Prime Video 1 FHD" tvg-logo="" group-title="Ugeen - France - فرنسا",FR: Amazon Prime Video 1 FHD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/3856.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: Amazon Prime Video 2 FHD" tvg-logo="" group-title="Ugeen - France - فرنسا",FR: Amazon Prime Video 2 FHD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/3857.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: Amazon Prime Video 3 FHD" tvg-logo="" group-title="Ugeen - France - فرنسا",FR: Amazon Prime Video 3 FHD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/3858.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: Amazon Prime Video 4 FHD" tvg-logo="" group-title="Ugeen - France - فرنسا",FR: Amazon Prime Video 4 FHD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/3859.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: Amazon Prime Video 5 FHD" tvg-logo="" group-title="Ugeen - France - فرنسا",FR: Amazon Prime Video 5 FHD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/3860.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FR: Amazon Prime Video 6 FHD" tvg-logo="" group-title="Ugeen - France - فرنسا",FR: Amazon Prime Video 6 FHD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/3861.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[FR]_CANAL+ LIVE 1 HD" tvg-logo="" group-title="Ugeen - France - فرنسا",[FR]_CANAL+ LIVE 1 HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/4379.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[FR]_CANAL+ LIVE 2 HD" tvg-logo="" group-title="Ugeen - France - فرنسا",[FR]_CANAL+ LIVE 2 HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/4374.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[FR]_CANAL+ LIVE 3 HD" tvg-logo="" group-title="Ugeen - France - فرنسا",[FR]_CANAL+ LIVE 3 HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/4375.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[FR]_CANAL+ LIVE 4 HD" tvg-logo="" group-title="Ugeen - France - فرنسا",[FR]_CANAL+ LIVE 4 HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/4377.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[FR]_CANAL+ LIVE 5 HD" tvg-logo="" group-title="Ugeen - France - فرنسا",[FR]_CANAL+ LIVE 5 HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/4376.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[FR] BFM TV HD" tvg-logo="" group-title="Ugeen - France - فرنسا",[FR] BFM TV HD
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/4380.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[FR] LCI" tvg-logo="" group-title="Ugeen - France - فرنسا",[FR] LCI
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/4381.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="[FR]FRANCE INFO" tvg-logo="" group-title="Ugeen - France - فرنسا",[FR]FRANCE INFO
+http://ugeen.live:8080/live/Ugeen_mG51dK/oJbTm6/4382.ts
