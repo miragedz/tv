@@ -1,8 +1,0 @@
-<keymap>
-<global>
-<keyboard>
-<key id="235">activatewindow(shutdownmenu)</key><!-- power btn -->
-<key id="232">RestartApp</key> <!-- power2 btn -->   
-</keyboard>
-</global>
-</keymap>
