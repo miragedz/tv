@@ -2,4 +2,4 @@
 
 [Dexe Repo](https://github.com/deklica/repo.dexe)
 
-[Dexe Repo](https://github.com/akeotaseo/World-Repo-Repository/tree/main/repository.dregs)
+[Dregs Repo](https://github.com/akeotaseo/World-Repo-Repository/tree/main/repository.dregs)
