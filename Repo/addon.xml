@@ -79,6 +79,12 @@
 			<datadir zip="true">https://raw.githubusercontent.com/deklica/repo.dexe/master/misc/</datadir>
 			<hashes>false</hashes>
 		</dir>
+		<dir minversion="19.0.0">
+			<info compressed="false">https://raw.githubusercontent.com/Kodi-vStream/venom-xbmc-addons/master/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/Kodi-vStream/venom-xbmc-addons/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://github.com/Kodi-vStream/venom-xbmc-addons/raw/master/repo</datadir>
+        <hashes>false</hashes>
+		</dir>
 
 <!--  Repositories  -->
 
@@ -87,6 +93,7 @@
 			<info compressed="false">https://raw.githubusercontent.com/Kodi-vStream/venom-xbmc-addons/master/addons.xml</info>
         <checksum>https://raw.githubusercontent.com/Kodi-vStream/venom-xbmc-addons/master/addons.xml.md5</checksum>
         <datadir zip="true">https://github.com/Kodi-vStream/venom-xbmc-addons/raw/master/repo</datadir>
+        <hashes>false</hashes>
 		</dir>
 
 	</extension>
