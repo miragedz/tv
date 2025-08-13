@@ -5,3 +5,5 @@
 [Dregs Repo](https://github.com/dregs1/dregs1.github.io)
 
 [CMan Build Repo](https://cmanbuilds.com/repo/)
+
+[Vstream Repo](https://github.com/Kodi-vStream/venom-xbmc-addons/tree/Beta/repo/repository.vstream)
