@@ -102,67 +102,12 @@
 
 <!--  Repositories  -->
 
-<!--  Nixgates Repo 2.2.0  -->
-		<dir minversion="18.0">
-			<info compressed="false">https://raw.githubusercontent.com/nixgates/nixgates/master/repo/zips/addons.xml</info>
-			<checksum>https://raw.githubusercontent.com/nixgates/nixgates/master/repo/zips/addons.xml.md5</checksum>
-			<datadir zip="true">https://raw.githubusercontent.com/nixgates/nixgates/master/repo/zips/</datadir>
-		</dir>
-		<dir minversion="18.0" maxversion="18.9.0">
-			<info compressed="false">https://raw.githubusercontent.com/nixgates/nixgates/master/leia/zips/addons.xml</info>
-			<checksum>https://raw.githubusercontent.com/nixgates/nixgates/master/leia/zips/addons.xml.md5</checksum>
-			<datadir zip="true">https://raw.githubusercontent.com/nixgates/nixgates/master/leia/zips/</datadir>
-		</dir>
-		<dir minversion="18.9.0">
-			<info compressed="false">https://raw.githubusercontent.com/nixgates/nixgates/master/matrix/zips/addons.xml</info>
-			<checksum>https://raw.githubusercontent.com/nixgates/nixgates/master/matrix/zips/addons.xml.md5</checksum>
-			<datadir zip="true">https://raw.githubusercontent.com/nixgates/nixgates/master/matrix/zips/</datadir>
-		</dir>
-
 <!--  Vstream repository 0.0.1  -->
 		<dir minversion="19.0.0">
 			<info compressed="false">https://raw.githubusercontent.com/Kodi-vStream/venom-xbmc-addons/master/addons.xml</info>
         <checksum>https://raw.githubusercontent.com/Kodi-vStream/venom-xbmc-addons/master/addons.xml.md5</checksum>
         <datadir zip="true">https://github.com/Kodi-vStream/venom-xbmc-addons/raw/master/repo</datadir>
 		</dir>
-
-<!--  Yatse Kodi Add-on repository 1.1.0  -->
-		<dir minversion="14.0.0">
-			<info compressed="false">https://raw.githubusercontent.com/Tolriq/repository.yatse.kodi/master/zips/addons.xml</info>
-			<checksum>https://raw.githubusercontent.com/Tolriq/repository.yatse.kodi/master/zips/addons.xml.md5</checksum>
-			<datadir zip="true">https://raw.githubusercontent.com/Tolriq/repository.yatse.kodi/master/zips/</datadir>
-			<hashes>false</hashes>
-		</dir>
-		<dir minversion="18.9.0">
-			<info compressed="false">https://raw.githubusercontent.com/Tolriq/repository.yatse.kodi/master/matrix/addons.xml</info>
-			<checksum>https://raw.githubusercontent.com/Tolriq/repository.yatse.kodi/master/matrix/addons.xml.md5</checksum>
-			<datadir zip="true">https://raw.githubusercontent.com/Tolriq/repository.yatse.kodi/master/matrix/</datadir>
-			<hashes>false</hashes>
-		</dir>
-
-<!--  pkscout's Skin Modifications 2.0.1  -->
-		<dir minversion="19.0.0" maxversion="19.9.0">
-			<info>https://raw.github.com/pkscout/repository.skins.pkscout/matrix/addons.xml</info>
-			<checksum>https://raw.github.com/pkscout/repository.skins.pkscout/matrix/addons.xml.md5</checksum>
-			<datadir zip="true">https://raw.github.com/pkscout/repository.skins.pkscout/matrix/download</datadir>
-			<artdir>https://raw.github.com/pkscout/repository.skins.pkscout/matrix/download</artdir>
-			<hashes>false</hashes>
-		</dir>
-		<dir minversion="20.0.0" maxversion="20.8.900">
-			<info>https://raw.github.com/pkscout/repository.skins.pkscout/nexus/addons.xml</info>
-			<checksum>https://raw.github.com/pkscout/repository.skins.pkscout/nexus/addons.xml.md5</checksum>
-			<datadir zip="true">https://raw.github.com/pkscout/repository.skins.pkscout/nexus/download</datadir>
-			<artdir>https://raw.github.com/pkscout/repository.skins.pkscout/nexus/download</artdir>
-			<hashes>false</hashes>
-		</dir>
-		<dir minversion="20.9.0">
-			<info>https://raw.github.com/pkscout/repository.skins.pkscout/omega/addons.xml</info>
-			<checksum>https://raw.github.com/pkscout/repository.skins.pkscout/omega/addons.xml.md5</checksum>
-			<datadir zip="true">https://raw.github.com/pkscout/repository.skins.pkscout/omega/download</datadir>
-			<artdir>https://raw.github.com/pkscout/repository.skins.pkscout/omega/download</artdir>
-			<hashes>false</hashes>
-		</dir>
-
 
 	</extension>
 	<extension point="xbmc.addon.metadata">
