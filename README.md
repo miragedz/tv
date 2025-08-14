@@ -7,3 +7,5 @@
 [CMan Build Repo](https://cmanbuilds.com/repo/)
 
 [Vstream Repo](https://github.com/Kodi-vStream/venom-xbmc-addons/tree/Beta/repo/repository.vstream)
+
+[KodiNerds Repo](https://repo.kodinerds.net/addons/repository.kodinerds/repository.kodinerds-7.0.1.7.zip)
