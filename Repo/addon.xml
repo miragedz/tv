@@ -160,7 +160,6 @@
 </addon>
 <addon id="plugin.video.vstream" name="vStream" version="3.5.0" provider-name="venom-xbmc-addons">
     <requires>
-
         <trycatch>
             <try>
                 <import addon="xbmc.python" version="3.0.0"/>
