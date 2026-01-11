@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="100NLTV.nl" tvg-name="beIN SPORTS 1 SD" tvg-logo="http://91.208.162.66/bsnew/bs1sd.png" group-title="beIN SPORTS SD | OTT",beIN SPORTS 1 SD
+http://vod4k.cc:8080/3178456125374573/4355214333/3067
 #EXTINF:-1 tvg-id="" tvg-name="|VM| Le Monde après nous (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/m8L9D17fnfBIxtL8IPZuX6gzJTu.jpg" group-title="FILMS RECENTS FR",|VM| Le Monde après nous (2023)
 http://vod4k.cc:8080/movie/3178456125374573/4355214333/395975.mp4
 #EXTINF:-1 tvg-id="" tvg-name="|VOST| Tuesday (2024)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zrd6blans3SqghHSxPAl7tqnaOf.jpg" group-title="FILMS RECENTS FR",|VOST| Tuesday (2024)
