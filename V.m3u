@@ -1,3 +1,351 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="100NLTV.nl" tvg-name="beIN SPORTS 1 SD" tvg-logo="http://91.208.162.66/bsnew/bs1sd.png" group-title="beIN SPORTS SD | OTT",beIN SPORTS 1 SD
 http://vod4k.cc:8080/3178456125374573/4355214333/3067
+#EXTINF:-1 tvg-id="100NLTV.nl" tvg-name="beIN SPORTS 2 SD" tvg-logo="http://91.208.162.66/bsnew/bs2sd.png" group-title="beIN SPORTS SD | OTT",beIN SPORTS 2 SD
+http://vod4k.cc:8080/3178456125374573/4355214333/3068
+#EXTINF:-1 tvg-id="100NLTV.nl" tvg-name="beIN SPORTS 3 SD" tvg-logo="http://91.208.162.66/bsnew/bs3sd.png" group-title="beIN SPORTS SD | OTT",beIN SPORTS 3 SD
+http://vod4k.cc:8080/3178456125374573/4355214333/18375
+#EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="beIN SPORTS 4 SD" tvg-logo="http://91.208.162.66/bsnew/bs4sd.png" group-title="beIN SPORTS SD | OTT",beIN SPORTS 4 SD
+http://vod4k.cc:8080/3178456125374573/4355214333/36414
+#EXTINF:-1 tvg-id="beINSports2En.qa" tvg-name="beIN SPORTS 5 SD" tvg-logo="http://91.208.162.66/bsnew/bs5sd.png" group-title="beIN SPORTS SD | OTT",beIN SPORTS 5 SD
+http://vod4k.cc:8080/3178456125374573/4355214333/36417
+#EXTINF:-1 tvg-id="100NLTV.nl" tvg-name="beIN SPORTS 6 SD" tvg-logo="http://91.208.162.66/bsnew/bs6sd.png" group-title="beIN SPORTS SD | OTT",beIN SPORTS 6 SD
+http://vod4k.cc:8080/3178456125374573/4355214333/36423
+#EXTINF:-1 tvg-id="beINSports3En.qa" tvg-name="beIN SPORTS 7 SD" tvg-logo="http://91.208.162.66/bsnew/bs7sd.png" group-title="beIN SPORTS SD | OTT",beIN SPORTS 7 SD
+http://vod4k.cc:8080/3178456125374573/4355214333/36425
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="beIN SPORTS 8 SD" tvg-logo="http://91.208.162.66/bsnew/bs8sd.png" group-title="beIN SPORTS SD | OTT",beIN SPORTS 8 SD
+http://vod4k.cc:8080/3178456125374573/4355214333/36976
+#EXTINF:-1 tvg-id="beINSports4En.qa" tvg-name="beIN SPORTS 9 SD" tvg-logo="http://91.208.162.66/bsnew/bs9sd.png" group-title="beIN SPORTS SD | OTT",beIN SPORTS 9 SD
+http://vod4k.cc:8080/3178456125374573/4355214333/36977
+#EXTINF:-1 tvg-name="beIN SPORTS XTRA 1 SD" tvg-logo="http://91.208.162.66/bsnew/extra1sd.png" group-title="beIN SPORTS SD | OTT",beIN SPORTS XTRA 1 SD
+http://vod4k.cc:8080/3178456125374573/4355214333/162382
+#EXTINF:-1 tvg-name="beIN SPORTS XTRA 2 SD" tvg-logo="http://91.208.162.66/bsnew/extra2sd.png" group-title="beIN SPORTS SD | OTT",beIN SPORTS XTRA 2 SD
+http://vod4k.cc:8080/3178456125374573/4355214333/162383
+#EXTINF:-1 tvg-name="beIN SPORTS XTRA 3 SD" tvg-logo="http://91.208.162.66/bsnew/extra3sd.png" group-title="beIN SPORTS SD | OTT",beIN SPORTS XTRA 3 SD
+http://vod4k.cc:8080/3178456125374573/4355214333/162384
+#EXTINF:-1 tvg-name="beIN SPORTS 1 SD FRENCH" tvg-logo="http://91.208.162.66/bsnew/french1sd.png" group-title="beIN SPORTS SD | OTT",beIN SPORTS 1 SD FRENCH
+http://vod4k.cc:8080/3178456125374573/4355214333/162385
+#EXTINF:-1 tvg-name="beIN SPORTS 2 SD FRENCH" tvg-logo="http://91.208.162.66/bsnew/french2sd.png" group-title="beIN SPORTS SD | OTT",beIN SPORTS 2 SD FRENCH
+http://vod4k.cc:8080/3178456125374573/4355214333/162386
+#EXTINF:-1 tvg-name="beIN SPORTS 3 SD FRENCH" tvg-logo="http://91.208.162.66/bsnew/french3sd.png" group-title="beIN SPORTS SD | OTT",beIN SPORTS 3 SD FRENCH
+http://vod4k.cc:8080/3178456125374573/4355214333/162387
+#EXTINF:-1 tvg-name="beIN SPORTS 1 SD ENGLISH" tvg-logo="http://91.208.162.66/bsnew/engish1sd.png" group-title="beIN SPORTS SD | OTT",beIN SPORTS 1 SD ENGLISH
+http://vod4k.cc:8080/3178456125374573/4355214333/162388
+#EXTINF:-1 tvg-name="beIN SPORTS 2 SD ENGLISH" tvg-logo="http://91.208.162.66/bsnew/engish2sd.png" group-title="beIN SPORTS SD | OTT",beIN SPORTS 2 SD ENGLISH
+http://vod4k.cc:8080/3178456125374573/4355214333/162389
+#EXTINF:-1 tvg-name="beIN SPORTS News HD" tvg-logo="http://91.208.162.66/bsnew/news.png" group-title="beIN SPORTS HD | OTT",beIN SPORTS News HD
+http://vod4k.cc:8080/3178456125374573/4355214333/3047
+#EXTINF:-1 tvg-name="beIN SPORTS HD" tvg-logo="http://91.208.162.66/bsnew/global.png" group-title="beIN SPORTS HD | OTT",beIN SPORTS HD
+http://vod4k.cc:8080/3178456125374573/4355214333/3046
+#EXTINF:-1 tvg-id="beINSports1.qa" tvg-name="beIN SPORTS 1 HD" tvg-logo="http://91.208.162.66/bsnew/bs1hd.png" group-title="beIN SPORTS HD | OTT",beIN SPORTS 1 HD
+http://vod4k.cc:8080/3178456125374573/4355214333/327075
+#EXTINF:-1 tvg-name="beIN SPORTS 2 HD" tvg-logo="http://91.208.162.66/bsnew/bs2hd.png" group-title="beIN SPORTS HD | OTT",beIN SPORTS 2 HD
+http://vod4k.cc:8080/3178456125374573/4355214333/403471
+#EXTINF:-1 tvg-name="beIN SPORTS 3 HD" tvg-logo="http://91.208.162.66/bsnew/bs3hd.png" group-title="beIN SPORTS HD | OTT",beIN SPORTS 3 HD
+http://vod4k.cc:8080/3178456125374573/4355214333/36415
+#EXTINF:-1 tvg-id="beINSeries1.qa" tvg-name="beIN SPORTS 4 HD" tvg-logo="http://91.208.162.66/bsnew/bs4hd.png" group-title="beIN SPORTS HD | OTT",beIN SPORTS 4 HD
+http://vod4k.cc:8080/3178456125374573/4355214333/239655
+#EXTINF:-1 tvg-name="beIN SPORTS 5 HD" tvg-logo="http://91.208.162.66/bsnew/bs5hd.png" group-title="beIN SPORTS HD | OTT",beIN SPORTS 5 HD
+http://vod4k.cc:8080/3178456125374573/4355214333/36421
+#EXTINF:-1 tvg-name="beIN SPORTS 6 HD" tvg-logo="http://91.208.162.66/bsnew/bs6hd.png" group-title="beIN SPORTS HD | OTT",beIN SPORTS 6 HD
+http://vod4k.cc:8080/3178456125374573/4355214333/36422
+#EXTINF:-1 tvg-name="beIN SPORTS 8 HD" tvg-logo="http://91.208.162.66/bsnew/bs8hd.png" group-title="beIN SPORTS HD | OTT",beIN SPORTS 8 HD
+http://vod4k.cc:8080/3178456125374573/4355214333/3059
+#EXTINF:-1 tvg-name="beIN SPORTS 9 HD" tvg-logo="http://91.208.162.66/bsnew/bs9hd.png" group-title="beIN SPORTS HD | OTT",beIN SPORTS 9 HD
+http://vod4k.cc:8080/3178456125374573/4355214333/36426
+#EXTINF:-1 tvg-name="beIN SPORTS XTRA 1 HD" tvg-logo="http://91.208.162.66/bsnew/extra1hd.png" group-title="beIN SPORTS HD | OTT",beIN SPORTS XTRA 1 HD
+http://vod4k.cc:8080/3178456125374573/4355214333/237540
+#EXTINF:-1 tvg-name="beIN SPORTS XTRA 2 HD" tvg-logo="http://91.208.162.66/bsnew/extra2hd.png" group-title="beIN SPORTS HD | OTT",beIN SPORTS XTRA 2 HD
+http://vod4k.cc:8080/3178456125374573/4355214333/237541
+#EXTINF:-1 tvg-name="beIN SPORTS XTRA 3 HD" tvg-logo="http://91.208.162.66/bsnew/extra3hd.png" group-title="beIN SPORTS HD | OTT",beIN SPORTS XTRA 3 HD
+http://vod4k.cc:8080/3178456125374573/4355214333/3057
+#EXTINF:-1 tvg-name="beIN SPORTS 1 HD FR" tvg-logo="http://91.208.162.66/bsnew/french1hd.png" group-title="beIN SPORTS HD | OTT",beIN SPORTS 1 HD FR
+http://vod4k.cc:8080/3178456125374573/4355214333/137025
+#EXTINF:-1 tvg-name="beIN SPORTS 2 HD FR" tvg-logo="http://91.208.162.66/bsnew/french2hd.png" group-title="beIN SPORTS HD | OTT",beIN SPORTS 2 HD FR
+http://vod4k.cc:8080/3178456125374573/4355214333/137032
+#EXTINF:-1 tvg-name="beIN SPORTS 3 HD FR" tvg-logo="http://91.208.162.66/bsnew/french3hd.png" group-title="beIN SPORTS HD | OTT",beIN SPORTS 3 HD FR
+http://vod4k.cc:8080/3178456125374573/4355214333/137033
+#EXTINF:-1 tvg-name="beIN SPORTS 1 HD ENG" tvg-logo="http://91.208.162.66/bsnew/english1hd.png" group-title="beIN SPORTS HD | OTT",beIN SPORTS 1 HD ENG
+http://vod4k.cc:8080/3178456125374573/4355214333/36424
+#EXTINF:-1 tvg-name="beIN SPORTS 2 HD ENG" tvg-logo="http://91.208.162.66/bsnew/english2hd.png" group-title="beIN SPORTS HD | OTT",beIN SPORTS 2 HD ENG
+http://vod4k.cc:8080/3178456125374573/4355214333/8260
+#EXTINF:-1 tvg-name="beIN SPORTS 3 HD ENG" tvg-logo="http://91.208.162.66/bsnew/english3hd.png" group-title="beIN SPORTS HD | OTT",beIN SPORTS 3 HD ENG
+http://vod4k.cc:8080/3178456125374573/4355214333/137024
+#EXTINF:-1 tvg-name="beIN SPORTS GLOBAL 4K" tvg-logo="http://91.208.162.66/bsnew/global.png" group-title="beIN SPORTS H265 | OTT",beIN SPORTS GLOBAL 4K
+http://vod4k.cc:8080/3178456125374573/4355214333/327076
+#EXTINF:-1 tvg-id="100NLTV.nl" tvg-name="beIN SPORTS 1 4K" tvg-logo="http://91.208.162.66/bsnew/bs14k.png" group-title="beIN SPORTS H265 | OTT",beIN SPORTS 1 4K
+http://vod4k.cc:8080/3178456125374573/4355214333/12407
+#EXTINF:-1 tvg-id="100NLTV.nl" tvg-name="beIN SPORTS 2 4K" tvg-logo="http://91.208.162.66/bsnew/bs24k.png" group-title="beIN SPORTS H265 | OTT",beIN SPORTS 2 4K
+http://vod4k.cc:8080/3178456125374573/4355214333/12408
+#EXTINF:-1 tvg-id="beINSports2En.qa" tvg-name="beIN SPORTS 3 4K" tvg-logo="http://91.208.162.66/bsnew/bs34k.png" group-title="beIN SPORTS H265 | OTT",beIN SPORTS 3 4K
+http://vod4k.cc:8080/3178456125374573/4355214333/12409
+#EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="beIN SPORTS 4 4K" tvg-logo="http://91.208.162.66/bsnew/bs44k.png" group-title="beIN SPORTS H265 | OTT",beIN SPORTS 4 4K
+http://vod4k.cc:8080/3178456125374573/4355214333/12410
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="beIN SPORTS 5 4K" tvg-logo="http://91.208.162.66/bsnew/bs54k.png" group-title="beIN SPORTS H265 | OTT",beIN SPORTS 5 4K
+http://vod4k.cc:8080/3178456125374573/4355214333/12411
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="beIN SPORTS 6 4K" tvg-logo="http://91.208.162.66/bsnew/bs64k.png" group-title="beIN SPORTS H265 | OTT",beIN SPORTS 6 4K
+http://vod4k.cc:8080/3178456125374573/4355214333/12412
+#EXTINF:-1 tvg-id="beINSports5En.qa" tvg-name="beIN SPORTS 7 4K" tvg-logo="http://91.208.162.66/bsnew/bs74k.png" group-title="beIN SPORTS H265 | OTT",beIN SPORTS 7 4K
+http://vod4k.cc:8080/3178456125374573/4355214333/23565
+#EXTINF:-1 tvg-id="beINSports6En.qa" tvg-name="beIN SPORTS 8 4K" tvg-logo="http://91.208.162.66/bsnew/bs84k.png" group-title="beIN SPORTS H265 | OTT",beIN SPORTS 8 4K
+http://vod4k.cc:8080/3178456125374573/4355214333/23566
+#EXTINF:-1 tvg-id="100NLTV.nl" tvg-name="beIN SPORTS 9 4K" tvg-logo="http://91.208.162.66/bsnew/bs94k.png" group-title="beIN SPORTS H265 | OTT",beIN SPORTS 9 4K
+http://vod4k.cc:8080/3178456125374573/4355214333/23567
+#EXTINF:-1 tvg-name="beIN SPORTS 1 EXTRA 4K" tvg-logo="http://91.208.162.66/bsnew/extra14k.png" group-title="beIN SPORTS H265 | OTT",beIN SPORTS 1 EXTRA 4K
+http://vod4k.cc:8080/3178456125374573/4355214333/173470
+#EXTINF:-1 tvg-name="beIN SPORTS 2 EXTRA 4K" tvg-logo="http://91.208.162.66/bsnew/extra24k.png" group-title="beIN SPORTS H265 | OTT",beIN SPORTS 2 EXTRA 4K
+http://vod4k.cc:8080/3178456125374573/4355214333/173471
+#EXTINF:-1 tvg-name="beIN SPORTS 3 EXTRA 4K" tvg-logo="http://91.208.162.66/bsnew/extra34k.png" group-title="beIN SPORTS H265 | OTT",beIN SPORTS 3 EXTRA 4K
+http://vod4k.cc:8080/3178456125374573/4355214333/173472
+#EXTINF:-1 tvg-name="beIN SPORTS 1 4K FRENCH" tvg-logo="http://91.208.162.66/bsnew/french14k.png" group-title="beIN SPORTS H265 | OTT",beIN SPORTS 1 4K FRENCH
+http://vod4k.cc:8080/3178456125374573/4355214333/173473
+#EXTINF:-1 tvg-name="beIN SPORTS 2 4K FRENCH" tvg-logo="http://91.208.162.66/bsnew/french24k.png" group-title="beIN SPORTS H265 | OTT",beIN SPORTS 2 4K FRENCH
+http://vod4k.cc:8080/3178456125374573/4355214333/173474
+#EXTINF:-1 tvg-name="beIN SPORTS 3 4K FRENCH" tvg-logo="http://91.208.162.66/bsnew/french34k.png" group-title="beIN SPORTS H265 | OTT",beIN SPORTS 3 4K FRENCH
+http://vod4k.cc:8080/3178456125374573/4355214333/173475
+#EXTINF:-1 tvg-name="beIN SPORTS 1 4K ENGLISH" tvg-logo="http://91.208.162.66/bsnew/english14k.png" group-title="beIN SPORTS H265 | OTT",beIN SPORTS 1 4K ENGLISH
+http://vod4k.cc:8080/3178456125374573/4355214333/173476
+#EXTINF:-1 tvg-name="beIN SPORTS 2 4K ENGLISH" tvg-logo="http://91.208.162.66/bsnew/english24k.png" group-title="beIN SPORTS H265 | OTT",beIN SPORTS 2 4K ENGLISH
+http://vod4k.cc:8080/3178456125374573/4355214333/173477
+#EXTINF:-1 tvg-name="beIN SPORTS 3 4K ENGLISH" tvg-logo="http://91.208.162.66/bsnew/english34k.png" group-title="beIN SPORTS H265 | OTT",beIN SPORTS 3 4K ENGLISH
+http://vod4k.cc:8080/3178456125374573/4355214333/222974
+#EXTINF:-1 tvg-id="beINSportsAFC.qa" tvg-name="beIN SPORTS AFC HD" tvg-logo="http://91.208.162.66/BEINAFC/BEINAFC.png" group-title="beIN SPORTS AFC",beIN SPORTS AFC HD
+http://vod4k.cc:8080/3178456125374573/4355214333/249903
+#EXTINF:-1 tvg-id="beINSportsAFC.qa" tvg-name="beIN SPORTS AFC FHD" tvg-logo="http://91.208.162.66/BEINAFC/BEINAFC.png" group-title="beIN SPORTS AFC",beIN SPORTS AFC FHD
+http://vod4k.cc:8080/3178456125374573/4355214333/249904
+#EXTINF:-1 tvg-id="beINSportsAFC.qa" tvg-name="beIN SPORTS AFC HEVC" tvg-logo="http://91.208.162.66/BEINAFC/BEINAFC.png" group-title="beIN SPORTS AFC",beIN SPORTS AFC HEVC
+http://vod4k.cc:8080/3178456125374573/4355214333/249905
+#EXTINF:-1 tvg-id="beINSportsAFC1.qa" tvg-name="beIN SPORTS AFC 1 HD" tvg-logo="http://91.208.162.66/BEINAFC/BEINAFC.png" group-title="beIN SPORTS AFC",beIN SPORTS AFC 1 HD
+http://vod4k.cc:8080/3178456125374573/4355214333/249906
+#EXTINF:-1 tvg-id="beINSportsAFC1.qa" tvg-name="beIN SPORTS AFC 1 FHD" tvg-logo="http://91.208.162.66/BEINAFC/BEINAFC.png" group-title="beIN SPORTS AFC",beIN SPORTS AFC 1 FHD
+http://vod4k.cc:8080/3178456125374573/4355214333/249907
+#EXTINF:-1 tvg-id="beINSportsAFC1.qa" tvg-name="beIN SPORTS AFC 1 HEVC" tvg-logo="http://91.208.162.66/BEINAFC/BEINAFC.png" group-title="beIN SPORTS AFC",beIN SPORTS AFC 1 HEVC
+http://vod4k.cc:8080/3178456125374573/4355214333/249908
+#EXTINF:-1 tvg-id="beINSportsAFC2.qa" tvg-name="beIN SPORTS AFC 2 HD" tvg-logo="http://91.208.162.66/BEINAFC/BEINAFC.png" group-title="beIN SPORTS AFC",beIN SPORTS AFC 2 HD
+http://vod4k.cc:8080/3178456125374573/4355214333/249909
+#EXTINF:-1 tvg-id="beINSportsAFC2.qa" tvg-name="beIN SPORTS AFC 2 FHD" tvg-logo="http://91.208.162.66/BEINAFC/BEINAFC.png" group-title="beIN SPORTS AFC",beIN SPORTS AFC 2 FHD
+http://vod4k.cc:8080/3178456125374573/4355214333/249910
+#EXTINF:-1 tvg-id="beINSportsAFC2.qa" tvg-name="beIN SPORTS AFC 2 HEVC" tvg-logo="http://91.208.162.66/BEINAFC/BEINAFC.png" group-title="beIN SPORTS AFC",beIN SPORTS AFC 2 HEVC
+http://vod4k.cc:8080/3178456125374573/4355214333/249911
+#EXTINF:-1 tvg-id="beINSportsAFC2.qa" tvg-name="beIN SPORTS AFC 3 HD" tvg-logo="http://91.208.162.66/BEINAFC/BEINAFC.png" group-title="beIN SPORTS AFC",beIN SPORTS AFC 3 HD
+http://vod4k.cc:8080/3178456125374573/4355214333/249912
+#EXTINF:-1 tvg-id="beINSportsAFC3.qa" tvg-name="beIN SPORTS AFC 3 FHD" tvg-logo="http://91.208.162.66/BEINAFC/BEINAFC.png" group-title="beIN SPORTS AFC",beIN SPORTS AFC 3 FHD
+http://vod4k.cc:8080/3178456125374573/4355214333/249913
+#EXTINF:-1 tvg-id="beINSportsAFC3.qa" tvg-name="beIN SPORTS AFC 3 HEVC" tvg-logo="http://91.208.162.66/BEINAFC/BEINAFC.png" group-title="beIN SPORTS AFC",beIN SPORTS AFC 3 HEVC
+http://vod4k.cc:8080/3178456125374573/4355214333/249914
+#EXTINF:-1 tvg-name="|BEIN FR|  BEIN SPORTS 1 HD" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/bs.png" group-title="BEIN SPORTS | OTT",|BEIN FR|  BEIN SPORTS 1 HD
+http://vod4k.cc:8080/3178456125374573/4355214333/27086
+#EXTINF:-1 tvg-name="|BEIN FR|  BEIN SPORT 1 SD" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/bsfr.png" group-title="BEIN SPORTS | OTT",|BEIN FR|  BEIN SPORT 1 SD
+http://vod4k.cc:8080/3178456125374573/4355214333/27083
+#EXTINF:-1 tvg-name="|BEIN FR|  BEIN SPORTS 2 FR FHD" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/bsfr.png" group-title="BEIN SPORTS | OTT",|BEIN FR|  BEIN SPORTS 2 FR FHD
+http://vod4k.cc:8080/3178456125374573/4355214333/27088
+#EXTINF:-1 tvg-id="beINSportsFrench2.qa" tvg-name="|BEIN FR|  BEIN SPORTS 2 HD" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/bs.png" group-title="BEIN SPORTS | OTT",|BEIN FR|  BEIN SPORTS 2 HD
+http://vod4k.cc:8080/3178456125374573/4355214333/27085
+#EXTINF:-1 tvg-name="|BEIN FR|  BEIN SPORT 2 SD" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/bsfr.png" group-title="BEIN SPORTS | OTT",|BEIN FR|  BEIN SPORT 2 SD
+http://vod4k.cc:8080/3178456125374573/4355214333/27082
+#EXTINF:-1 tvg-name="|BEIN FR|  BEIN SPORTS 3 FR FHD" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/bsfr.png" group-title="BEIN SPORTS | OTT",|BEIN FR|  BEIN SPORTS 3 FR FHD
+http://vod4k.cc:8080/3178456125374573/4355214333/27087
+#EXTINF:-1 tvg-id="beINSportsFrench3.qa" tvg-name="|BEIN FR|  BEIN SPORTS 3 HD" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/bs.png" group-title="BEIN SPORTS | OTT",|BEIN FR|  BEIN SPORTS 3 HD
+http://vod4k.cc:8080/3178456125374573/4355214333/27084
+#EXTINF:-1 tvg-name="|BEIN FR|  BEIN SPORT 3 SD" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/bsfr.png" group-title="BEIN SPORTS | OTT",|BEIN FR|  BEIN SPORT 3 SD
+http://vod4k.cc:8080/3178456125374573/4355214333/27081
+#EXTINF:-1 tvg-id="beINSPORTSMAX4.fr" tvg-name="|BEIN FR|  BEIN SPORTS MAX 4" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/bsmax.png" group-title="BEIN SPORTS | OTT",|BEIN FR|  BEIN SPORTS MAX 4
+http://vod4k.cc:8080/3178456125374573/4355214333/27080
+#EXTINF:-1 tvg-id="beINSPORTSMAX5.fr" tvg-name="|BEIN FR|  BEIN SPORTS MAX 5" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/bsmax.png" group-title="BEIN SPORTS | OTT",|BEIN FR|  BEIN SPORTS MAX 5
+http://vod4k.cc:8080/3178456125374573/4355214333/27079
+#EXTINF:-1 tvg-id="beINSPORTSMAX6.fr" tvg-name="|BEIN FR|  BEIN SPORTS MAX 6" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/bsmax.png" group-title="BEIN SPORTS | OTT",|BEIN FR|  BEIN SPORTS MAX 6
+http://vod4k.cc:8080/3178456125374573/4355214333/27078
+#EXTINF:-1 tvg-id="beINSPORTSMAX7.fr" tvg-name="|BEIN FR|  BEIN SPORTS MAX 7" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/bsmax.png" group-title="BEIN SPORTS | OTT",|BEIN FR|  BEIN SPORTS MAX 7
+http://vod4k.cc:8080/3178456125374573/4355214333/27077
+#EXTINF:-1 tvg-id="beINSPORTSMAX8.fr" tvg-name="|BEIN FR|  BEIN SPORTS MAX 8" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/bsmax.png" group-title="BEIN SPORTS | OTT",|BEIN FR|  BEIN SPORTS MAX 8
+http://vod4k.cc:8080/3178456125374573/4355214333/27076
+#EXTINF:-1 tvg-id="beINSPORTSMAX9.fr" tvg-name="|BEIN FR|  BEIN SPORTS MAX 9" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/bsmax.png" group-title="BEIN SPORTS | OTT",|BEIN FR|  BEIN SPORTS MAX 9
+http://vod4k.cc:8080/3178456125374573/4355214333/27075
+#EXTINF:-1 tvg-id="beINSPORTSMAX10.fr" tvg-name="|BEIN FR|  BEIN SPORTS MAX 10" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/bsmax.png" group-title="BEIN SPORTS | OTT",|BEIN FR|  BEIN SPORTS MAX 10
+http://vod4k.cc:8080/3178456125374573/4355214333/27074
+#EXTINF:-1 tvg-id="100NLTV.nl" tvg-name="|BEIN AR|  BEIN SPORTS HD 1" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/beinsportpremium4.png" group-title="BEIN SPORTS | OTT",|BEIN AR|  BEIN SPORTS HD 1
+http://vod4k.cc:8080/3178456125374573/4355214333/27111
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|BEIN AR|  BEIN SPORTS HD 2" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/beinsportpremium4.png" group-title="BEIN SPORTS | OTT",|BEIN AR|  BEIN SPORTS HD 2
+http://vod4k.cc:8080/3178456125374573/4355214333/400056
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|BEIN AR|  BEIN SPORTS 1 FHD" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/beinsportpremium4.png" group-title="BEIN SPORTS | OTT",|BEIN AR|  BEIN SPORTS 1 FHD
+http://vod4k.cc:8080/3178456125374573/4355214333/27099
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|BEIN AR|  BEIN SPORTS SD 1" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/beinsportpremium4.png" group-title="BEIN SPORTS | OTT",|BEIN AR|  BEIN SPORTS SD 1
+http://vod4k.cc:8080/3178456125374573/4355214333/27073
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|BEIN AR|  BEIN SPORTS SD 2" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/beinsportpremium4.png" group-title="BEIN SPORTS | OTT",|BEIN AR|  BEIN SPORTS SD 2
+http://vod4k.cc:8080/3178456125374573/4355214333/27072
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|BEIN AR|  BEIN SPORTS 3 FHD" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/beinsportpremium4.png" group-title="BEIN SPORTS | OTT",|BEIN AR|  BEIN SPORTS 3 FHD
+http://vod4k.cc:8080/3178456125374573/4355214333/27097
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|BEIN AR|  BEIN SPORTS HD 3" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/beinsportpremium4.png" group-title="BEIN SPORTS | OTT",|BEIN AR|  BEIN SPORTS HD 3
+http://vod4k.cc:8080/3178456125374573/4355214333/27109
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|BEIN AR|  BEIN SPORTS SD 3" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/beinsportpremium4.png" group-title="BEIN SPORTS | OTT",|BEIN AR|  BEIN SPORTS SD 3
+http://vod4k.cc:8080/3178456125374573/4355214333/27071
+#EXTINF:-1 tvg-id="beINSports1En.qa" tvg-name="|BEIN AR|  BEIN SPORTS 1 H265" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/bs.png" group-title="BEIN SPORTS | OTT",|BEIN AR|  BEIN SPORTS 1 H265
+http://vod4k.cc:8080/3178456125374573/4355214333/27060
+#EXTINF:-1 tvg-id="beINSports2En.qa" tvg-name="|BEIN AR| BEIN SPORTS 4 FHD" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/bs.png" group-title="BEIN SPORTS | OTT",|BEIN AR| BEIN SPORTS 4 FHD
+http://vod4k.cc:8080/3178456125374573/4355214333/27095
+#EXTINF:-1 tvg-id="beINSports2En.qa" tvg-name="|BEIN AR| BEIN SPORTS HD 4" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/bs.png" group-title="BEIN SPORTS | OTT",|BEIN AR| BEIN SPORTS HD 4
+http://vod4k.cc:8080/3178456125374573/4355214333/27107
+#EXTINF:-1 tvg-id="beINSports2En.qa" tvg-name="|BEIN AR|  BEIN SPORTS SD 4" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/bs.png" group-title="BEIN SPORTS | OTT",|BEIN AR|  BEIN SPORTS SD 4
+http://vod4k.cc:8080/3178456125374573/4355214333/27069
+#EXTINF:-1 tvg-id="beINSports2En.qa" tvg-name="|BEIN AR|  BEIN SPORTS 2 H265" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/bs.png" group-title="BEIN SPORTS | OTT",|BEIN AR|  BEIN SPORTS 2 H265
+http://vod4k.cc:8080/3178456125374573/4355214333/27059
+#EXTINF:-1 tvg-id="100NLTV.nl" tvg-name="|BEIN AR| BEIN SPORTS 5 FHD" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/bs.png" group-title="BEIN SPORTS | OTT",|BEIN AR| BEIN SPORTS 5 FHD
+http://vod4k.cc:8080/3178456125374573/4355214333/27094
+#EXTINF:-1 tvg-id="100NLTV.nl" tvg-name="|BEIN AR| BEIN SPORTS HD 5" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/bs.png" group-title="BEIN SPORTS | OTT",|BEIN AR| BEIN SPORTS HD 5
+http://vod4k.cc:8080/3178456125374573/4355214333/27106
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|BEIN AR|  BEIN SPORTS SD 5" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/bs.png" group-title="BEIN SPORTS | OTT",|BEIN AR|  BEIN SPORTS SD 5
+http://vod4k.cc:8080/3178456125374573/4355214333/27068
+#EXTINF:-1 tvg-id="100NLTV.nl" tvg-name="|BEIN AR|  BEIN SPORTS 3 H265" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/bs.png" group-title="BEIN SPORTS | OTT",|BEIN AR|  BEIN SPORTS 3 H265
+http://vod4k.cc:8080/3178456125374573/4355214333/27058
+#EXTINF:-1 tvg-id="100NLTV.nl" tvg-name="|BEIN AR|  BEIN SPORTS 6 FHD" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/bs.png" group-title="BEIN SPORTS | OTT",|BEIN AR|  BEIN SPORTS 6 FHD
+http://vod4k.cc:8080/3178456125374573/4355214333/27093
+#EXTINF:-1 tvg-id="100NLTV.nl" tvg-name="|BEIN AR| BEIN SPORTS HD 6" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/bs.png" group-title="BEIN SPORTS | OTT",|BEIN AR| BEIN SPORTS HD 6
+http://vod4k.cc:8080/3178456125374573/4355214333/27105
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|BEIN AR|  BEIN SPORTS SD 6" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/bs.png" group-title="BEIN SPORTS | OTT",|BEIN AR|  BEIN SPORTS SD 6
+http://vod4k.cc:8080/3178456125374573/4355214333/27067
+#EXTINF:-1 tvg-id="beINSports4En.qa" tvg-name="|BEIN AR|  BEIN SPORTS 4 H265" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/bs.png" group-title="BEIN SPORTS | OTT",|BEIN AR|  BEIN SPORTS 4 H265
+http://vod4k.cc:8080/3178456125374573/4355214333/27057
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|BEIN AR|  BEIN SPORTS 7 FHD" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/bs.png" group-title="BEIN SPORTS | OTT",|BEIN AR|  BEIN SPORTS 7 FHD
+http://vod4k.cc:8080/3178456125374573/4355214333/27092
+#EXTINF:-1 tvg-id="100NLTV.nl" tvg-name="|BEIN AR| BEIN SPORTS HD 7" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/bs.png" group-title="BEIN SPORTS | OTT",|BEIN AR| BEIN SPORTS HD 7
+http://vod4k.cc:8080/3178456125374573/4355214333/27104
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|BEIN AR|  BEIN SPORTS SD 5" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/bs.png" group-title="BEIN SPORTS | OTT",|BEIN AR|  BEIN SPORTS SD 5
+http://vod4k.cc:8080/3178456125374573/4355214333/27068
+#EXTINF:-1 tvg-id="beINSports5En.qa" tvg-name="|BEIN AR|  BEIN SPORTS 5 H265" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/bs.png" group-title="BEIN SPORTS | OTT",|BEIN AR|  BEIN SPORTS 5 H265
+http://vod4k.cc:8080/3178456125374573/4355214333/27056
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|BEIN AR|  BEIN SPORTS 8 FHD" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/bs.png" group-title="BEIN SPORTS | OTT",|BEIN AR|  BEIN SPORTS 8 FHD
+http://vod4k.cc:8080/3178456125374573/4355214333/27091
+#EXTINF:-1 tvg-id="100NLTV.nl" tvg-name="|BEIN AR| BEIN SPORTS HD 8" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/bs.png" group-title="BEIN SPORTS | OTT",|BEIN AR| BEIN SPORTS HD 8
+http://vod4k.cc:8080/3178456125374573/4355214333/27103
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|BEIN AR|  BEIN SPORTS SD 8" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/bs.png" group-title="BEIN SPORTS | OTT",|BEIN AR|  BEIN SPORTS SD 8
+http://vod4k.cc:8080/3178456125374573/4355214333/27065
+#EXTINF:-1 tvg-id="beINSports6En.qa" tvg-name="|BEIN AR|  BEIN SPORTS 6 H265" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/bs.png" group-title="BEIN SPORTS | OTT",|BEIN AR|  BEIN SPORTS 6 H265
+http://vod4k.cc:8080/3178456125374573/4355214333/27055
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|BEIN AR|  BEIN SPORTS 9 FHD" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/bs.png" group-title="BEIN SPORTS | OTT",|BEIN AR|  BEIN SPORTS 9 FHD
+http://vod4k.cc:8080/3178456125374573/4355214333/27090
+#EXTINF:-1 tvg-id="100NLTV.nl" tvg-name="|BEIN AR| BEIN SPORTS HD 9" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/bs.png" group-title="BEIN SPORTS | OTT",|BEIN AR| BEIN SPORTS HD 9
+http://vod4k.cc:8080/3178456125374573/4355214333/27102
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|BEIN AR|  BEIN SPORTS SD 9" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/bs.png" group-title="BEIN SPORTS | OTT",|BEIN AR|  BEIN SPORTS SD 9
+http://vod4k.cc:8080/3178456125374573/4355214333/27064
+#EXTINF:-1 tvg-id="beINSports7En.qa" tvg-name="|BEIN AR|  BEIN SPORTS 7 H265" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/bs.png" group-title="BEIN SPORTS | OTT",|BEIN AR|  BEIN SPORTS 7 H265
+http://vod4k.cc:8080/3178456125374573/4355214333/27054
+#EXTINF:-1 tvg-name="|BEIN AR|  BEIN SPORTS HD 2 FR" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/bsfr.png" group-title="BEIN SPORTS | OTT",|BEIN AR|  BEIN SPORTS HD 2 FR
+http://vod4k.cc:8080/3178456125374573/4355214333/27100
+#EXTINF:-1 tvg-name="|BEIN AR|  BEIN SPORTS HD 1 FR" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/bsfr.png" group-title="BEIN SPORTS | OTT",|BEIN AR|  BEIN SPORTS HD 1 FR
+http://vod4k.cc:8080/3178456125374573/4355214333/27101
+#EXTINF:-1 tvg-name="|BEIN AR|  BEIN SPORTS HD" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/bs.png" group-title="BEIN SPORTS | OTT",|BEIN AR|  BEIN SPORTS HD
+http://vod4k.cc:8080/3178456125374573/4355214333/27112
+#EXTINF:-1 tvg-name="|BEIN AR|  BEIN SPORTS NEWS HD" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/bs.png" group-title="BEIN SPORTS | OTT",|BEIN AR|  BEIN SPORTS NEWS HD
+http://vod4k.cc:8080/3178456125374573/4355214333/27113
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|BEIN AR|  BEIN SPORTS 2 FHD" tvg-logo="http://91.208.162.66/PICONS-SHOTT/PICONS-BOUQET-BEIN-SPORT/beinsportpremium4.png" group-title="BEIN SPORTS | OTT",|BEIN AR|  BEIN SPORTS 2 FHD
+http://vod4k.cc:8080/3178456125374573/4355214333/400057
+#EXTINF:-1 tvg-name="|CAN|AR beIN SPORTS Max 1 ❹Ⓚ" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png" group-title="AFRICA CUP 2025",|CAN|AR beIN SPORTS Max 1 ❹Ⓚ
+http://vod4k.cc:8080/3178456125374573/4355214333/432904
+#EXTINF:-1 tvg-name="|CAN|AR beIN SPORTS Max 1 ⒻⒽⒹ" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png" group-title="AFRICA CUP 2025",|CAN|AR beIN SPORTS Max 1 ⒻⒽⒹ
+http://vod4k.cc:8080/3178456125374573/4355214333/432903
+#EXTINF:-1 tvg-name="|CAN|AR beIN SPORTS Max 1 ⒽⒹ" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png" group-title="AFRICA CUP 2025",|CAN|AR beIN SPORTS Max 1 ⒽⒹ
+http://vod4k.cc:8080/3178456125374573/4355214333/432902
+#EXTINF:-1 tvg-name="|CAN|AR beIN SPORTS Max 1 ⓈⒹ" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX1_DIGITAL_Mono.png" group-title="AFRICA CUP 2025",|CAN|AR beIN SPORTS Max 1 ⓈⒹ
+http://vod4k.cc:8080/3178456125374573/4355214333/432901
+#EXTINF:-1 tvg-name="|CAN|AR beIN SPORTS Max 2 ❹Ⓚ" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png" group-title="AFRICA CUP 2025",|CAN|AR beIN SPORTS Max 2 ❹Ⓚ
+http://vod4k.cc:8080/3178456125374573/4355214333/432900
+#EXTINF:-1 tvg-name="|CAN|AR beIN SPORTS Max 2 ⒻⒽⒹ" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png" group-title="AFRICA CUP 2025",|CAN|AR beIN SPORTS Max 2 ⒻⒽⒹ
+http://vod4k.cc:8080/3178456125374573/4355214333/432899
+#EXTINF:-1 tvg-name="|CAN|AR beIN SPORTS Max 2 ⒽⒹ" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png" group-title="AFRICA CUP 2025",|CAN|AR beIN SPORTS Max 2 ⒽⒹ
+http://vod4k.cc:8080/3178456125374573/4355214333/432898
+#EXTINF:-1 tvg-name="|CAN|AR beIN SPORTS Max 2 ⓈⒹ" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX2_DIGITAL_Mono.png" group-title="AFRICA CUP 2025",|CAN|AR beIN SPORTS Max 2 ⓈⒹ
+http://vod4k.cc:8080/3178456125374573/4355214333/432897
+#EXTINF:-1 tvg-name="|CAN|EN beIN SPORTS Max 3 ❹Ⓚ" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX3_DIGITAL_Mono.png" group-title="AFRICA CUP 2025",|CAN|EN beIN SPORTS Max 3 ❹Ⓚ
+http://vod4k.cc:8080/3178456125374573/4355214333/432896
+#EXTINF:-1 tvg-name="|CAN|EN beIN SPORTS Max 3 ⒻⒽⒹ" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX3_DIGITAL_Mono.png" group-title="AFRICA CUP 2025",|CAN|EN beIN SPORTS Max 3 ⒻⒽⒹ
+http://vod4k.cc:8080/3178456125374573/4355214333/432895
+#EXTINF:-1 tvg-name="|CAN|EN beIN SPORTS Max 3 ⒽⒹ" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX3_DIGITAL_Mono.png" group-title="AFRICA CUP 2025",|CAN|EN beIN SPORTS Max 3 ⒽⒹ
+http://vod4k.cc:8080/3178456125374573/4355214333/432894
+#EXTINF:-1 tvg-name="|CAN|AR beIN SPORTS Max 3 ⓈⒹ" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX3_DIGITAL_Mono.png" group-title="AFRICA CUP 2025",|CAN|AR beIN SPORTS Max 3 ⓈⒹ
+http://vod4k.cc:8080/3178456125374573/4355214333/432893
+#EXTINF:-1 tvg-name="|CAN|FR beIN SPORTS MAX 4 ❹Ⓚ" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png" group-title="AFRICA CUP 2025",|CAN|FR beIN SPORTS MAX 4 ❹Ⓚ
+http://vod4k.cc:8080/3178456125374573/4355214333/432892
+#EXTINF:-1 tvg-name="|CAN|FR beIN SPORTS MAX 4 ⒻⒽⒹ" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png" group-title="AFRICA CUP 2025",|CAN|FR beIN SPORTS MAX 4 ⒻⒽⒹ
+http://vod4k.cc:8080/3178456125374573/4355214333/432891
+#EXTINF:-1 tvg-name="|CAN|FR beIN SPORTS MAX 4 ⒽⒹ" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png" group-title="AFRICA CUP 2025",|CAN|FR beIN SPORTS MAX 4 ⒽⒹ
+http://vod4k.cc:8080/3178456125374573/4355214333/432890
+#EXTINF:-1 tvg-name="|CAN|FR beIN SPORTS MAX 4 ⓈⒹ" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png" group-title="AFRICA CUP 2025",|CAN|FR beIN SPORTS MAX 4 ⓈⒹ
+http://vod4k.cc:8080/3178456125374573/4355214333/432889
+#EXTINF:-1 tvg-name="|CAN|DZ PROGRAMME NATIONAL ALGÉRIE ⒽⒹ" tvg-logo="http://91.208.162.66/001/dz/alger1.png" group-title="AFRICA CUP 2025",|CAN|DZ PROGRAMME NATIONAL ALGÉRIE ⒽⒹ
+http://vod4k.cc:8080/3178456125374573/4355214333/432888
+#EXTINF:-1 tvg-name="|CAN|EG ON TIME SPORTS 1 ⒽⒹ" tvg-logo="https://s12.gifyu.com/images/SVINH.png" group-title="AFRICA CUP 2025",|CAN|EG ON TIME SPORTS 1 ⒽⒹ
+http://vod4k.cc:8080/3178456125374573/4355214333/432887
+#EXTINF:-1 tvg-name="|CAN|EG ON TIME SPORTS 2 ⒽⒹ" tvg-logo="https://s12.gifyu.com/images/SVINx.png" group-title="AFRICA CUP 2025",|CAN|EG ON TIME SPORTS 2 ⒽⒹ
+http://vod4k.cc:8080/3178456125374573/4355214333/432886
+#EXTINF:-1 tvg-name="|CAN|MR ARRYADIA TV MAROC ⒽⒹ" tvg-logo="https://s12.gifyu.com/images/SV48N.png" group-title="AFRICA CUP 2025",|CAN|MR ARRYADIA TV MAROC ⒽⒹ
+http://vod4k.cc:8080/3178456125374573/4355214333/432885
+#EXTINF:-1 tvg-name="|CAN|FR CANAL+ CAN ⒽⒹ" tvg-logo="https://i.imgur.com/Wo1u42w.png" group-title="AFRICA CUP 2025",|CAN|FR CANAL+ CAN ⒽⒹ
+http://vod4k.cc:8080/3178456125374573/4355214333/432884
+#EXTINF:-1 tvg-name="|CAN|FR beIN SPORTS 1 ⒽⒹ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bein-sports-1-french-fr.png" group-title="AFRICA CUP 2025",|CAN|FR beIN SPORTS 1 ⒽⒹ
+http://vod4k.cc:8080/3178456125374573/4355214333/432883
+#EXTINF:-1 tvg-name="|CAN|FR beIN SPORTS 2 ⒽⒹ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/bein-sports-2-french-fr.png" group-title="AFRICA CUP 2025",|CAN|FR beIN SPORTS 2 ⒽⒹ
+http://vod4k.cc:8080/3178456125374573/4355214333/432882
+#EXTINF:-1 tvg-name="|CAN|ES LALIGA+ TV ⒽⒹ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/laliga-tv-por-movistar-plus-es.png" group-title="AFRICA CUP 2025",|CAN|ES LALIGA+ TV ⒽⒹ
+http://vod4k.cc:8080/3178456125374573/4355214333/432881
+#EXTINF:-1 tvg-name="|CAN|ES Movistar Plus+ ⒽⒹ" group-title="AFRICA CUP 2025",|CAN|ES Movistar Plus+ ⒽⒹ
+http://vod4k.cc:8080/3178456125374573/4355214333/432880
+#EXTINF:-1 tvg-name="|CAN|DE SPORTDIGITAL FUSSBALL ⒽⒹ" group-title="AFRICA CUP 2025",|CAN|DE SPORTDIGITAL FUSSBALL ⒽⒹ
+http://vod4k.cc:8080/3178456125374573/4355214333/432879
+#EXTINF:-1 tvg-name="|CAN|IT SPORTITALIA ⒽⒹ" group-title="AFRICA CUP 2025",|CAN|IT SPORTITALIA ⒽⒹ
+http://vod4k.cc:8080/3178456125374573/4355214333/432878
+#EXTINF:-1 tvg-name="|CAN|PT SPORT TV1 ⒽⒹ" tvg-logo="https://i.imgur.com/OdTsx44.png" group-title="AFRICA CUP 2025",|CAN|PT SPORT TV1 ⒽⒹ
+http://vod4k.cc:8080/3178456125374573/4355214333/432877
+#EXTINF:-1 tvg-name="|CAN|PT SPORT TV2 ⒽⒹ" tvg-logo="https://i.imgur.com/JqmlWlV.png" group-title="AFRICA CUP 2025",|CAN|PT SPORT TV2 ⒽⒹ
+http://vod4k.cc:8080/3178456125374573/4355214333/432876
+#EXTINF:-1 tvg-name="|CAN|PT SPORT TV3 ⒽⒹ" tvg-logo="https://i.imgur.com/aku69ds.png" group-title="AFRICA CUP 2025",|CAN|PT SPORT TV3 ⒽⒹ
+http://vod4k.cc:8080/3178456125374573/4355214333/432875
+#EXTINF:-1 tvg-name="|CAN|PT SPORT TV4 ⒽⒹ" tvg-logo="https://i.imgur.com/hWvkFmN.png" group-title="AFRICA CUP 2025",|CAN|PT SPORT TV4 ⒽⒹ
+http://vod4k.cc:8080/3178456125374573/4355214333/432874
+#EXTINF:-1 tvg-name="|CAN|PT SPORT TV5 ⒽⒹ" tvg-logo="https://i.imgur.com/L8oHDqJ.png" group-title="AFRICA CUP 2025",|CAN|PT SPORT TV5 ⒽⒹ
+http://vod4k.cc:8080/3178456125374573/4355214333/432873
+#EXTINF:-1 tvg-name="|CAN|PT Sport TV 6 ⒽⒹ" tvg-logo="https://i.imgur.com/jjlRoMM.png" group-title="AFRICA CUP 2025",|CAN|PT Sport TV 6 ⒽⒹ
+http://vod4k.cc:8080/3178456125374573/4355214333/432872
+#EXTINF:-1 tvg-name="|CAN|PT Sport TV 7 ⒽⒹ" tvg-logo="https://i.imgur.com/fSnSodm.png" group-title="AFRICA CUP 2025",|CAN|PT Sport TV 7 ⒽⒹ
+http://vod4k.cc:8080/3178456125374573/4355214333/432871
+#EXTINF:-1 tvg-name="|CAN|NL Ziggo Sport ⒽⒹ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/ziggo-sport-nl.png" group-title="AFRICA CUP 2025",|CAN|NL Ziggo Sport ⒽⒹ
+http://vod4k.cc:8080/3178456125374573/4355214333/432870
+#EXTINF:-1 tvg-name="|CAN|NL Ziggo Sport 2 ⒽⒹ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/ziggo-sport-2-nl.png" group-title="AFRICA CUP 2025",|CAN|NL Ziggo Sport 2 ⒽⒹ
+http://vod4k.cc:8080/3178456125374573/4355214333/432869
+#EXTINF:-1 tvg-name="|CAN|NL Ziggo Sport 3 ⒽⒹ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/ziggo-sport-3-nl.png" group-title="AFRICA CUP 2025",|CAN|NL Ziggo Sport 3 ⒽⒹ
+http://vod4k.cc:8080/3178456125374573/4355214333/432868
+#EXTINF:-1 tvg-name="|CAN|NL Ziggo Sport 4 ⒽⒹ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/ziggo-sport-4-nl.png" group-title="AFRICA CUP 2025",|CAN|NL Ziggo Sport 4 ⒽⒹ
+http://vod4k.cc:8080/3178456125374573/4355214333/432867
+#EXTINF:-1 tvg-name="|CAN|NL Ziggo Sport 5 ⒽⒹ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/ziggo-sport-5-nl.png" group-title="AFRICA CUP 2025",|CAN|NL Ziggo Sport 5 ⒽⒹ
+http://vod4k.cc:8080/3178456125374573/4355214333/432866
+#EXTINF:-1 tvg-name="|CAN|NL Ziggo Sport 6 ⒽⒹ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/netherlands/ziggo-sport-6-nl.png" group-title="AFRICA CUP 2025",|CAN|NL Ziggo Sport 6 ⒽⒹ
+http://vod4k.cc:8080/3178456125374573/4355214333/432865
+#EXTINF:-1 tvg-name="|CAN|BG MAX SPORT 1 ⒽⒹ" group-title="AFRICA CUP 2025",|CAN|BG MAX SPORT 1 ⒽⒹ
+http://vod4k.cc:8080/3178456125374573/4355214333/432864
+#EXTINF:-1 tvg-name="|CAN|BG MAX SPORT 2 ⒽⒹ" group-title="AFRICA CUP 2025",|CAN|BG MAX SPORT 2 ⒽⒹ
+http://vod4k.cc:8080/3178456125374573/4355214333/432863
+#EXTINF:-1 tvg-name="|CAN|BG MAX SPORT 3 ⒽⒹ" group-title="AFRICA CUP 2025",|CAN|BG MAX SPORT 3 ⒽⒹ
+http://vod4k.cc:8080/3178456125374573/4355214333/432862
+#EXTINF:-1 tvg-name="|CAN|SL Sport Klub 1 ⒽⒹ" group-title="AFRICA CUP 2025",|CAN|SL Sport Klub 1 ⒽⒹ
+http://vod4k.cc:8080/3178456125374573/4355214333/432861
+#EXTINF:-1 tvg-name="|CAN|SL Sport Klub 2 ⒽⒹ" group-title="AFRICA CUP 2025",|CAN|SL Sport Klub 2 ⒽⒹ
+http://vod4k.cc:8080/3178456125374573/4355214333/432860
+#EXTINF:-1 tvg-name="|CAN|SL Sport Klub 3 ⒽⒹ" group-title="AFRICA CUP 2025",|CAN|SL Sport Klub 3 ⒽⒹ
+http://vod4k.cc:8080/3178456125374573/4355214333/432859
+#EXTINF:-1 tvg-name="|CAN|SL Sport Klub 4 ⒽⒹ" group-title="AFRICA CUP 2025",|CAN|SL Sport Klub 4 ⒽⒹ
+http://vod4k.cc:8080/3178456125374573/4355214333/432858
+#EXTINF:-1 tvg-name="|CAN|SL Sport Klub 5 ⒽⒹ" group-title="AFRICA CUP 2025",|CAN|SL Sport Klub 5 ⒽⒹ
+http://vod4k.cc:8080/3178456125374573/4355214333/432857
+#EXTINF:-1 tvg-name="|CAN|SL Sport Klub 6 ⒽⒹ" group-title="AFRICA CUP 2025",|CAN|SL Sport Klub 6 ⒽⒹ
+http://vod4k.cc:8080/3178456125374573/4355214333/432856
+#EXTINF:-1 tvg-name="|CAN|SL Sport Klub 7 ⒽⒹ" group-title="AFRICA CUP 2025",|CAN|SL Sport Klub 7 ⒽⒹ
+http://vod4k.cc:8080/3178456125374573/4355214333/432855
+#EXTINF:-1 tvg-name="|CAN|SL Sport Klub 8 ⒽⒹ" group-title="AFRICA CUP 2025",|CAN|SL Sport Klub 8 ⒽⒹ
+http://vod4k.cc:8080/3178456125374573/4355214333/432854
+#EXTINF:-1 tvg-name="|CAN|SL Sport Klub 9 ⒽⒹ" group-title="AFRICA CUP 2025",|CAN|SL Sport Klub 9 ⒽⒹ
+http://vod4k.cc:8080/3178456125374573/4355214333/432853
+#EXTINF:-1 tvg-name="|CAN|SL Sport Klub 10 ⒽⒹ" group-title="AFRICA CUP 2025",|CAN|SL Sport Klub 10 ⒽⒹ
+http://vod4k.cc:8080/3178456125374573/4355214333/432852
+#EXTINF:-1 tvg-name="|CAN|SL Sport Klub 11 ⒽⒹ" group-title="AFRICA CUP 2025",|CAN|SL Sport Klub 11 ⒽⒹ
+http://vod4k.cc:8080/3178456125374573/4355214333/432851
+#EXTINF:-1 tvg-name="|CAN|SL Sport Klub 12 ⒽⒹ" group-title="AFRICA CUP 2025",|CAN|SL Sport Klub 12 ⒽⒹ
+http://vod4k.cc:8080/3178456125374573/4355214333/432850
