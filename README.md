@@ -8,4 +8,4 @@
 
 [Vstream Repo](https://github.com/Kodi-vStream/venom-xbmc-addons/tree/Beta/repo/repository.vstream)
 
-[KodiNerds Repo](https://diggz1.me/diggzrepo/)
+[diggz Repo](https://diggz1.me/diggzrepo/)
